@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Subject/Keword List in the text of Plaoul</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="2013.03">
+                    <title>Works Cited by Plaoul</title>
+                    <date when="2013-03-12">March 12, 2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Petrus Plaoul Editio Critica Electronica (PPECE)</publisher>
+                <pubPlace>Baltimore, MD</pubPlace>
+                <availability status="free">
+                    <p>Published under a <ref
+                            target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons
+                            Attribution ShareAlike 3.0 License</ref></p>
+                </availability>
+                <date when="2013-03-12">March 12, 2013</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born Digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc xml:id="encodeDescription">
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="faith">
+                        <catDesc>fides</catDesc>
+                        <category xml:id="fidesacquisita">
+                            <catDesc>fides acquisita</catDesc>
+                        </category>
+                        <category xml:id="fidesinfusa">
+                            <catDesc>fides infusa</catDesc>
+                        </category>
+                        <category xml:id="articulusfidei">
+                            <catDesc>articulus fidei</catDesc>
+                        </category>
+                        <category xml:id="habitusfidei">
+                            <catDesc>habitus fidei</catDesc>
+                        </category>
+                        <category xml:id="luxfidei">
+                            <catDesc>lux fidei</catDesc>
+                        </category>
+                    </category>
+                    
+                    <category xml:id="accidens">
+                        <catDesc>accidens</catDesc>
+                    </category>
+                    
+                    
+                    <category xml:id="auctoritas">
+                        <catDesc>auctoritas</catDesc>
+                    </category>
+                    
+                    <category xml:id="biblia">
+                        <catDesc>biblia</catDesc>
+                    </category>
+                    <category xml:id="caritas">
+                        <catDesc>caritas</catDesc>
+                        <category xml:id="caritasacquisita">
+                            <catDesc >caritas acquisita</catDesc>
+                        </category>
+                        <category xml:id="caritasinfusa">
+                            <catDesc>caritas infusa</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="cognitio">
+                        <catDesc>cognitio</catDesc>
+                        <category xml:id="cognitiobeatifica">
+                            <catDesc>cognitio beatifica</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="concursus">
+                            <catDesc>concursus</catDesc>
+                        <category xml:id="concursusobiectalis">
+                            <catDesc>concursus obiectalis</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="consilium">
+                        <catDesc>consilium</catDesc>
+                        <category xml:id="consiliumgenerale">
+                            <catDesc>consilium generale</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="daemones">
+                        <catDesc>daemones</catDesc>
+                    </category>
+                    <category xml:id="ecclesia">
+                        <catDesc>ecclesia</catDesc>
+                        <category xml:id="ecclesiagraeca">
+                            <catDesc>ecclesia graeca</catDesc>
+                        </category>
+                        <category xml:id="ecclesialatina">
+                            <catDesc>ecclesia latina</catDesc>
+                        </category>
+                        <category xml:id="aggregatiofidelium">
+                            <catDesc>aggregatio fidelium</catDesc>
+                        </category>
+                        <category xml:id="auctoritasecclesiae">
+                            <catDesc>auctoritas ecclesiae</catDesc>
+                        </category>
+                        <category xml:id="morbusecclesiae">
+                            <catDesc>morbus ecclesiae</catDesc>
+                        </category>
+                        <category xml:id="precesecclesiae">
+                            <catDesc>preces ecclesiae</catDesc>
+                        </category>
+                        <category xml:id="vitaecclesiae">
+                            <catDesc>vita ecclesiae</catDesc>
+                        </category>
+                        <category xml:id="determinatioecclesiae">
+                            <catDesc>determinatio ecclesiae</catDesc>
+                        </category>
+                        <category xml:id="caputecclesiae">
+                            <catDesc>caput ecclesiae</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="contingentia">
+                        <catDesc>contingentia</catDesc>
+                        <category xml:id="futuracotingentia">
+                            <catDesc>futura contingentia</catDesc>
+                        </category>
+                        <category xml:id="propositiocontingens">
+                            <catDesc>propositio contingens</catDesc>
+                        </category>
+                    </category>
+                    
+                    <category xml:id="gratia">
+                        <catDesc>gratia</catDesc>
+                        <category xml:id="gratiadivina">
+                            <catDesc>gratia divina</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="intellectus">
+                        <catDesc>intellectus</catDesc>
+                        <category xml:id="lumennaturalis">
+                            <catDesc>lumen naturalis</catDesc>
+                        </category>
+                        <category xml:id="iudiciumevidens">
+                            <catDesc>iudicium evidens</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="notitia">
+                        <catDesc>notitia</catDesc>
+                        <category xml:id="notitiaabstractiva">
+                            <catDesc>notitia abstractiva</catDesc>
+                        </category>
+                        <category xml:id="notitiacotingens">
+                            <catDesc>notitia contingens</catDesc>
+                        </category>
+                        <category xml:id="notitiaintuitiva">
+                            <catDesc>notitia intuitiva</catDesc>
+                        </category>
+                        <category xml:id="notitiasimplex">
+                            <catDesc>notitia simplex</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="politica">
+                        <catDesc>politica</catDesc>
+                        <category xml:id="lex">
+                            <catDesc>lex</catDesc>
+                        </category>
+                        <category xml:id="princeps">
+                            <catDesc>princeps</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="potentia">
+                        <catDesc>potentia</catDesc>
+                        <category xml:id="potentiabsoluta">
+                            <catDesc>potentia absoluta</catDesc>
+                        </category>
+                        <category xml:id="potentiaordinata">
+                            <catDesc>potentia ordinata</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="obligatio">
+                        <catDesc>obligatio</catDesc>
+                    </category>
+                    <category xml:id="peccatum">
+                        <catDesc>peccatum</catDesc>
+                        <category xml:id="peccatumpraelatorum">
+                            <catDesc>peccatum praelatorum</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="pontifex">
+                        <catDesc>pontifex</catDesc>
+                    </category>
+                    <category xml:id="ratio">
+                        <catDesc>ratio</catDesc>
+                        <category xml:id="rationeshumanas">
+                            <catDesc>rationes humanas</catDesc>
+                        </category>
+                        <category xml:id="rationesprobabiles">
+                            <catDesc>rationes probabiles</catDesc>
+                        </category>
+                        <category xml:id="rationessophisticae">
+                            <catDesc>rationes sophisticae</catDesc>
+                        </category>
+                        <category xml:id="rationesevidentes">
+                            <catDesc>rationes evidentes</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="principia">
+                        <catDesc>principia</catDesc>
+                        <category xml:id="primaprincipia">
+                            <catDesc>prima principia</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="species">
+                        <catDesc>species</catDesc>
+                        <category xml:id="speciesintelligibilis">
+                            <catDesc>species intelligibilis</catDesc>
+                        </category>
+                        <category xml:id="speciessensibilis">
+                            <catDesc>species sensibilis</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="scriptura">
+                        <catDesc>scriptura</catDesc>
+                    </category>
+                    <category xml:id="scientia">
+                        <catDesc>scientia</catDesc>
+                    </category>
+                    <category xml:id="spes">
+                        <catDesc>spes</catDesc>
+                    </category>
+                    <category xml:id="substantia">
+                        <catDesc>substantia</catDesc>
+                    </category>
+                    <category xml:id="universitas">
+                        <catDesc>universitas</catDesc>
+                    </category>
+                    <category xml:id="virtues">
+                        <catDesc>virtus</catDesc>
+                        <category xml:id="virtutescardinales">
+                            <catDesc>virtutes cardinales</catDesc>
+                        </category>
+                        <category xml:id="virtutestheologicae">
+                            <catDesc>virtutes theologicae</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="voluntas">
+                        <catDesc>voluntas</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>look above</p>
+        </body>
+    </text>
+</TEI>
