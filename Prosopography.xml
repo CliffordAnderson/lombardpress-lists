@@ -34,8 +34,7 @@
                 <persName>Avicenna</persName>
             </person>
             <person xml:id="Averroes">
-                <persName>Averroes</persName>
-                <note>THIS IS A TEST</note>
+                <persName>Averroes</persName>    
             </person>
             <person xml:id="Alkindi">
                 <persName>Alkindi</persName>
