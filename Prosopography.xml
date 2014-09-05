@@ -30,6 +30,7 @@
     <body>
         <listPerson xml:id="prosopography">
         <listPerson type="Arabic">
+            <person><persName>Muhammad</persName></person>
             <person xml:id="Avicenna">
                 <persName>Avicenna</persName>
             </person>
@@ -51,6 +52,21 @@
             
         </listPerson>
         <listPerson type="Biblical">
+            <person><persName>Seraphim</persName></person>
+            <person><persName>Satan</persName></person>
+            <person><persName>Pilate</persName></person>
+            <person><persName>Pharaoh</persName></person>
+            <person><persName>Mary Magdelene</persName></person>
+            <person><persName>Magi of Pharaoh</persName></person>
+            <person><persName>Joshua</persName></person>
+            <person><persName>Joseph</persName></person>
+            <person><persName>Jonah</persName></person>
+            <person><persName>Jezabel</persName></person>
+            <person><persName>Jeremiah</persName></person>
+            <person><persName>Isaiah</persName></person>
+            <person><persName>Gabriel</persName></person>
+            <person><persName>Daniel</persName></person>
+            <person><persName>Joseph Caiaphas</persName></person>
             <person xml:id="Paul">
                 <persName>Paul, the Apostle</persName>
             </person>
@@ -165,6 +181,23 @@
             </person>
         </listPerson>
         <listPerson type="Classical">
+            <person><persName>Zeno</persName></person>
+            <person><persName>Marcus Terentius Varro</persName></person>
+            <person><persName>Venus</persName></person>
+            <person><persName>Tiresias</persName></person>
+            <person><persName>Tiberius</persName></person>
+            <person><persName>Pythagoras</persName></person>
+            <person><persName>Priam</persName></person>
+            <person><persName>Ovid</persName></person>
+            <person><persName>Oedipus</persName></person>
+            <person><persName>Octavius</persName></person>
+            <person><persName>Mercury</persName></person>
+            <person><persName>Mars</persName></person>
+            <person><persName>Hector</persName></person>
+            <person><persName>Darius</persName></person>
+            <person><persName>Cleopatra</persName></person>
+            <person><persName>Lucius Apuleius Madaurensis</persName></person>
+            <person><persName>Aeneas</persName></person>
             <person xml:id="Aristotle">
                 <persName>Aristotle</persName>
             </person>
@@ -293,7 +326,7 @@
                 <persName>God</persName>
             </person>
             <person xml:id="Christ">
-                <persName>Christ</persName>
+                <persName>Jesus Christ</persName>
             </person>
             <person xml:id="Trinity">
                 <persName>Trinity</persName>
@@ -309,7 +342,12 @@
             </person>
         </listPerson>
         <listPerson type="Patristic">
-            
+            <person><persName>Peter Damian</persName></person>
+            <person><persName>Paul of Samosata</persName></person>
+            <person><persName>Eusebius of Caesarea</persName></person>
+            <person><persName>Bede</persName></person>
+            <person><persName>Athanasius of Alexandria</persName></person>
+            <person><persName>Anthony of Padua</persName></person>
             <person xml:id="Boethius">
                 <persName>Boethius</persName>
             </person>
@@ -405,6 +443,9 @@
             
         </listPerson>
         <listPerson type="Scholastic">
+            <person><persName>Roger Bacon</persName></person>
+            <person><persName>Plaoul</persName></person>
+            <person><persName>Jean Charlier de Gerson</persName></person>
             <person xml:id="Aquinas">
                 <persName>Thomas Aquinas</persName>
                 <note type="dbpedia-url">http://dbpedia.org/resource/Thomas_Aquinas</note>
