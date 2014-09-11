@@ -241,28 +241,65 @@
             </person>
         </listPerson>
         <listPerson type="Classical">
-            <person><persName>Zeno</persName></person>
-            <person><persName>Marcus Terentius Varro</persName></person>
-            <person><persName>Venus</persName></person>
-            <person><persName>Tiresias</persName></person>
-            <person><persName>Tiberius</persName></person>
-            <person><persName>Pythagoras</persName></person>
-            <person><persName>Priam</persName></person>
-            <person><persName>Ovid</persName></person>
-            <person><persName>Oedipus</persName></person>
-            <person><persName>Octavius</persName></person>
-            <person><persName>Mercury</persName></person>
-            <person><persName>Mars</persName></person>
-            <person><persName>Hector</persName></person>
-            <person><persName>Darius</persName></person>
-            <person><persName>Cleopatra</persName></person>
-            <person><persName>Lucius Apuleius Madaurensis</persName></person>
-            <person><persName>Aeneas</persName></person>
+            <person xml:id="Zeno">
+                <persName xml:lang="en">Zeno of Elea</persName>
+            </person>
+            <person xml:id="Varro">
+                <persName xml:lang="la">Marcus Terentius Varro</persName>
+            </person>
+            <person xml:id="Venus">
+                <persName>Venus</persName>
+            </person>
+            <person xml:id="Tiresias">
+                <persName>Tiresias</persName>
+            </person>
+            <person>
+                <persName>Tiberius</persName><!-- Wait is this refering to Tiberias Gracchus or is there a religious figure with this name? -->
+            </person>
+            <person xml:id="Pythagoras">
+                <persName>Pythagoras</persName></person>
+            <person xml:id="Priam">
+                <persName xml:lang="en">Priam</persName>
+                <PersName xml:lang="la">Priamus</PersName>
+            </person>
+            <person xml:id="Ovid">
+                <persName xml:lang="en">Ovid</persName>
+                <PersName xml:lang="la">Ovidius</PersName>
+            </person>
+            <person xml:id="Oedipus">
+                <persName>Oedipus</persName>
+            </person>
+            <person>
+                <persName>Octavius</persName><!-- Not sure how you want to do this one Octavius/Augustus? -->
+            </person>
+            <person xml:id="Mercury">
+                <persName xml:lang="en">Mercury</persName>
+                <PersName xml:lang="la">Mercurius</PersName>
+            </person>
+            <person xml:id="Mars">
+                <persName>Mars</persName>
+            </person>
+            <person xml:id="Hector">
+                <persName>Hector</persName>
+            </person>
+            <person xml:id="Darius">
+                <persName>Darius</persName>
+            </person>
+            <person xml:id="Cleopatra">
+                <persName>Cleopatra</persName>
+            </person>
+            <person xml:id="Apuleius">
+                <persName>Lucius Apuleius Madaurensis</persName>
+            </person>
+            <person xml:id="Aeneas">
+                <persName>Aeneas</persName>
+            </person>
             <person xml:id="Aristotle">
-                <persName>Aristotle</persName>
+                <persName xml:lang="en">Aristotle</persName>
+                <PersName xml:lang="la">Aristotoles</PersName>
             </person>
             <person xml:id="Cicero">
-                <persName>Cicero</persName>
+                <persName>Marcus Tulius Cicero</persName>
             </person>
             <person xml:id="Plato">
                 <persName>Plato</persName>
@@ -271,28 +308,31 @@
                 <persName>Anaxagoras</persName>
             </person>
             <person xml:id="JuliusCaesar">
-                <persName>Julius Cesar</persName>
+                <persName>Julius Caesar</persName>
             </person>
             <person xml:id="Pompey">
-                <persName>Pompey</persName>
+                <persName xml:lang="en">Pompey the Great</persName>
+                <PersName xml:lang="la">Pompeius Magnus</PersName>
             </person>
             <person xml:id="Demosthenes">
                 <persName>Demosthenes</persName>
             </person>
             <person xml:id="Macrobius">
-                <persName>Macrobius</persName>
+                <persName xml:lang="en">Macrobius</persName>
+                <PersName xml:lang="la">Macrobius Ambrosius Theodosius</PersName>
             </person>
             <person xml:id="Virgil">
                 <persName xml:lang="en">Virgil</persName>
+                <PersName xml:lang="la">Publius Vergilius Maro</PersName>
             </person>
             <person xml:id="Seneca">
-                <persName>Seneca</persName>
+                <persName>Seneca</persName><!-- the elder or younger? -->
             </person>
             <person xml:id="Epicurus">
                 <persName>Epicurus</persName>
             </person>
             <person xml:id="Trismegistus">
-                <persName>Hermes Trismegistus</persName>
+                <persName>Hermes Trismegistus</persName><!-- Same as Mercury -->
             </person>
             <person xml:id="Sortes">
                 <persName>Sortes</persName>
@@ -301,47 +341,53 @@
                 <persName>Socrates</persName>
             </person>
             <person xml:id="Porphyry">
-                <persName>Porphyry</persName>
+                <persName xml:lang="en">Porphyry of Tyre</persName><!-- couldn't find latin name -->
             </person>
             <person xml:id="Ptolemy">
-                <persName>Ptolemy</persName>
+                <persName xml:lang="en">Claudius Ptolemy</persName>
+                <PerName xml:lang="la">Claudius Ptolemaeus</PerName>
             </person>
             <person xml:id="Achilles">
-                <persName>Achilles</persName>
+                <persName xml:lang="en">Achilles</persName>
+                <PersName xml:lang="la">Achilleus</PersName>
             </person>
             <person xml:id="Plotinus">
                 <persName>Plotinus</persName>
             </person>
             <person xml:id="Simplicius">
-                <persName>Simplicius</persName>
+                <persName>Simplicius</persName><!-- Pope Simplicius -->
             </person>
             <person xml:id="Apollo">
                 <persName>Apollo</persName>
             </person>
             <person xml:id="Melissus">
-                <persName>Melissus of Samos</persName>
+                <persName xml:lang="en">Melissus of Samos</persName>
+                <persName xml:lang="la">Melissus</persName>
             </person>
             <person xml:id="Diogenes">
-                <persName>Diogenes of Sinope</persName>
+                <persName>Diogenes of Sinope</persName><!-- should we condense this with the entry below? -->
             </person>
             <person xml:id="Empedocles">
                 <persName>Diogenes of Sinope</persName>
             </person>
             <person xml:id="Josephus">
-                <persName>Josephus Flavius</persName>
+                <persName xml:lang="en">Josephus Flavius</persName>
+                <PersName xml:lang="la">Titus Flavius Josephus</PersName>
             </person>
             <person xml:id="Solon">
                 <persName>Solon</persName>
             </person>
             <person xml:id="AlexanderTheGreat">
-                <persName>Alexander the Great</persName>
+                <persName xml:lang="en">Alexander the Great</persName>
             </person>
             
             <person xml:id="Parmenides">
-                <persName>Parmenides</persName>
+                <persName xml:lang="en">Parmenides of Elea</persName>
+                <PersName xml:lang="la">Parmenides</PersName>
             </person>
             <person xml:id="Jupiter">
-                <persName>Jupiter</persName>
+                <persName xml:lang="en">Jupiter, Jove</persName>
+                <PersName xml:lang="la">Juppiter</PersName>
             </person>
             <person xml:id="Saturn">
                 <persName>Saturn</persName>
@@ -350,6 +396,7 @@
             <person xml:id="Euclid">
                 <persName>Euclid</persName>
             </person>
+            <!-- Start here -->
             <person xml:id="Autolycus">
                 <persName>Autolycus of Pitane</persName>
                 <note>Spell MESSEELLACH by William of Auvergne edited Griet Galle, 2003 - GL http://books.google.com/books?id=A8PpoJAyJ3wC</note>
