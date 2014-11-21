@@ -54,142 +54,223 @@
                 <title n="2">Exodus</title>
                 <author ref="#Moses">Moses</author>
             </bibl>
-            <bibl xml:id="mt">
-                <title>Matthew</title>
-                <author ref="#Mathew">Matthew</author>
-            </bibl>
-            <bibl xml:id="mc">
-                <title>Mark</title>
-                <author ref="#Mark">Mark</author>
-            </bibl>
-            <bibl xml:id="lc">
-                <title>Luke</title>
-                <author ref="#Luke">Luke</author>
-            </bibl>
-            <bibl xml:id="io">
-                <title>John</title>
-                <author ref="#John">John</author>
-            </bibl>
-            <bibl xml:id="rom">
-                <title>Romans</title>
-                <author ref="#Paul">Paul, the Apostle</author>
-            </bibl>
-            <bibl xml:id="iac">
-                <title>James</title>
-                <author ref="#James">James, the Apostle</author>
-            </bibl>
-            <bibl xml:id="Icor">
-                <title>I Corinthians</title>
-                <author ref="#Paul">Paul, the Apostle</author>
-            </bibl>
-            <bibl xml:id="IIcor">
-                <title>II Corinthians</title>
-                <author ref="#Paul">Paul, the Apostle</author>
-            </bibl>
-            <bibl xml:id="hebr">
-                <title>Hebrews</title>
-                <author ref="#Paul">Paul, the Apostle</author>
-            </bibl>
-            <bibl xml:id="hab">
-                <title>Habakkuk</title>
-                <author ref="#Habakkuk">Habakkuk</author>
-            </bibl>
-            <bibl xml:id="sap">
-                <title>Wisdom</title>
-                <author ref="#Solomon">Solomon</author>
-            </bibl>
-            <bibl xml:id="prov">
-                <title>Proverbs</title>
-                <author ref="#Solomon">Solomon</author>
-            </bibl>
-            <bibl xml:id="Iio">
-                <title>I John</title>
-                <author ref="#John">John</author>
-            </bibl>
-            <bibl xml:id="IIio">
-                <title>II John</title>
-                <author ref="#John">John</author>
-            </bibl>
-            <bibl xml:id="IIIio">
-                <title>III John</title>
-                <author ref="#John">John</author>
-            </bibl>
-            <bibl xml:id="act">
-                <title>Acts of the Apostles</title>
-                <author ref="#Luke">Luke</author>
-            </bibl>
-            <bibl xml:id="deut">
-                <title>Deuteronomy</title>
+            <bibl xml:id="lev">
+                <title n="3">Leviticus</title>
                 <author ref="#Moses">Moses</author>
-            </bibl>
-            <bibl xml:id="ps">
-                <title>Psalms</title>
-                <author ref="#David">David</author>
-            </bibl>
-            <bibl xml:id="Ipetr">
-                <title>I Peter</title>
-                <author ref="#Peter">Peter</author>
-            </bibl>
-            <bibl xml:id="IIpetr">
-                <title>II Peter</title>
-                <author ref="#Peter">Peter</author>
-            </bibl>
-            <bibl xml:id="ap">
-                <title>Revelation</title>
-                <author ref="#John">John</author>
-            </bibl>
-            <bibl xml:id="col">
-                <title>Collosians</title>
-                <author ref="#Paul">Paul</author>
-            </bibl>
-            <bibl xml:id="is">
-                <title>Isaiah</title>
-                <author ref="#Isaiah">Isaiah</author>
             </bibl>
             <bibl xml:id="num">
-                <title>Numbers</title>
+                <title n="4">Numeri</title>
                 <author ref="#Moses">Moses</author>
             </bibl>
-            <bibl xml:id="cant">
-                <title>Song of Songs</title>
-                <author ref="#Solomon">Solomon</author>
+            <bibl xml:id="deut">
+                <title n="5">Deuteronomium</title>
+                <author ref="#Moses">Moses</author>
             </bibl>
-            <bibl xml:id="gal">
-                <title>Galatians</title>
-                <author ref="#Paul">Paul</author>
+            <bibl xml:id="ios">
+                <title n="6">Iosue</title>
             </bibl>
-            <bibl xml:id="qoh">
-                <title>Ecclesiastes</title>
-                <author ref="#Solomon">Solomon</author>
+            <bibl xml:id="iudic">
+                <title n="7">Iudicum</title>
             </bibl>
-            <bibl xml:id="sir">
-                <title>Ecclesiasticus</title>
-                <author ref="#Solomon">Solomon</author>
+            <bibl xml:id="rut">
+                <title n="8">Ruth</title>
+            </bibl>
+            <bibl xml:id="Isam">
+                <title n="9">Samuelis I</title>
+            </bibl>
+            <bibl xml:id="IIsam">
+                <title n="10">Samuelis II</title>
+            </bibl>
+            <bibl xml:id="Ireg">
+                <title n="11">Regum I</title>
+            </bibl>
+            <bibl xml:id="IIreg">
+                <title n="12">Regum II</title>
+            </bibl>
+            <bibl xml:id="Ipara">
+                <title n="13">Paralipomenon I</title>
+            </bibl>
+            <bibl xml:id="IIpara">
+                <title n="14">Paralipomenon II</title>
+            </bibl>
+            <bibl xml:id="esd">
+                <title n="15">Esdrae</title>
+            </bibl>
+            <bibl xml:id="neh">
+                <title n="16">Nehemiae</title>
+            </bibl>
+            <bibl xml:id="tob">
+                <title n="69">Tobiae</title>
+            </bibl>
+            <bibl xml:id="iudt">
+                <title>Iudith</title>
+            </bibl>
+            <bibl xml:id="est">
+                <title n="17">Esther</title>
             </bibl>
             <bibl xml:id="iob">
                 <title>Iob</title>
-                <author ref="#Solomon">Solomon</author>
             </bibl>
-            <bibl xml:id="Itim">
-                <title>1 Timothy</title>
-                <author ref="#Paul">Paul</author>
+            <bibl xml:id="ps">
+                <title>Psalmi</title>
             </bibl>
-            <bibl xml:id="IItim">
-                <title>2 Timothy</title>
-                <author ref="#Paul">Paul</author>
+            <bibl xml:id="prov">
+                <title>Proverbia</title>
+            </bibl>
+            <bibl xml:id="quoh">
+                <title>Ecclesiastes</title>
+            </bibl>
+            <bibl xml:id="cant">
+                <title>Canticum Canticorum</title>
+            </bibl>
+            <bibl xml:id="sap">
+                <title>Sapientia</title>
+            </bibl>
+            <bibl xml:id="sir">
+                <title>Ecclesiasticus</title>
+            </bibl>
+            <bibl xml:id="is">
+                <title>Isaias</title>
+            </bibl>
+            <bibl xml:id="ier">
+                <title>Ieremias</title>
+            </bibl>
+            <bibl xml:id="lam">
+                <title>Lamentationes</title>
+            </bibl>
+            <bibl xml:id="bar">
+                <title>Baruch</title>
+            </bibl>
+            <bibl xml:id="ez">
+                <title>Ezechiel</title>
+            </bibl>
+            <bibl xml:id="dan">
+                <title>Daniel</title>
+            </bibl>
+            <bibl xml:id="os">
+                <title>Osee</title>
+            </bibl>
+            <bibl xml:id="ioel">
+                <title>Ioel</title>
+            </bibl>
+            <bibl xml:id="am">
+                <title>Amos</title>
+            </bibl>
+            <bibl xml:id="abd">
+                <title>Abdias</title>
+            </bibl>
+            <bibl xml:id="ion">
+                <title>Ionas</title>
+            </bibl>
+            <bibl xml:id="mic">
+                <title>Michaeas</title>
+            </bibl>
+            <bibl xml:id="nah">
+                <title>Nahum</title>
+            </bibl>
+            <bibl xml:id="hab">
+                <title>Habacuc</title>
+            </bibl>
+            <bibl xml:id="ag">
+                <title>Aggaeus</title>
+            </bibl>
+            <bibl xml:id="soph">
+                <title>Sophonias</title>
+            </bibl>
+            <bibl xml:id="zac">
+                <title>Zacharias</title>
             </bibl>
             <bibl xml:id="mal">
-                <title>Malachi</title>
-                <author ref="#Malachi">Malachi</author>
+                <title>Malachias</title>
             </bibl>
-            <bibl xml:id="Ireg">
-                <title>1 Kings</title>
-                <author ref="#Jeremiah">Jeremiah</author>
+            <bibl xml:id="Imac">
+                <title>Machabaeorum I</title>
             </bibl>
-            <bibl xml:id="IIreg">
-                <title>2 Kings</title>
-                <author ref="#Jeremiah">Jeremiah</author>
+            <bibl xml:id="IImac">
+                <title>Machabaeorum II</title>
             </bibl>
+            <bibl xml:id="mt">
+                <title>Matthaeus</title>
+            </bibl>
+            <bibl xml:id="mc">
+                <title>Marcus</title>
+            </bibl>
+            <bibl xml:id="lc">
+                <title>Lucas</title>
+            </bibl>
+            <bibl xml:id="io">
+                <title>Ioannes</title>
+            </bibl>
+            <bibl xml:id="act">
+                <title>Actus Apostolorum</title>
+            </bibl>
+            <bibl xml:id="rom">
+                <title>ad Romanos</title>
+            </bibl>
+            <bibl xml:id="Icor">
+                <title>ad Corinthios I</title>
+            </bibl>
+            <bibl xml:id="IIcor">
+                <title>ad Corinthios II</title>
+            </bibl>
+            <bibl xml:id="gal">
+                <title>ad Galatas</title>
+            </bibl>
+            <bibl xml:id="eph">
+                <title>ad Ephesios</title>
+            </bibl>
+            <bibl xml:id="phil">
+                <title>ad Philippenses</title>
+            </bibl>
+            <bibl xml:id="col">
+                <title>ad Colossenses</title>
+            </bibl>
+            <bibl xml:id="Ith">
+                <title>ad Thessalonicenses I</title>
+            </bibl>
+            <bibl xml:id="IIth">
+                <title>ad Thessalonicenses II</title>
+            </bibl>
+            <bibl xml:id="Itim">
+                <title>ad Timotheum I</title>
+            </bibl>
+            <bibl xml:id="IItim">
+                <title>ad Timotheum II</title>
+            </bibl>
+            <bibl xml:id="tit">
+                <title>ad Titum</title>
+            </bibl>
+            <bibl xml:id="phm">
+                <title>ad Philemonem</title>
+            </bibl>
+            <bibl xml:id="hebr">
+                <title>ad Hebraeos</title>
+            </bibl>
+            <bibl xml:id="iac">
+                <title>Iacobi</title>
+            </bibl>
+            <bibl xml:id="Ipetr">
+                <title>Petri I</title>
+            </bibl>
+            <bibl xml:id="IIpetr">
+                <title>Petri II</title>
+            </bibl>
+            <bibl xml:id="Iio">
+                <title>Ioannis I</title>
+            </bibl>
+            <bibl xml:id="IIio">
+                <title>Ioannis II</title>
+            </bibl>
+            <bibl xml:id="IIIio">
+                <title>Ioannis III</title>
+            </bibl>
+            <bibl xml:id="iud">
+                <title>Iudae</title>
+            </bibl>
+            <bibl xml:id="ap">
+                <title>Apocalypsis</title>
+            </bibl>
+            
             
         </listBibl>
         <listBibl type="Classical">
@@ -424,6 +505,10 @@
             </bibl>
             <bibl xml:id="Monologion">
                 <title>Monologion</title>
+                <author ref="#Anselm">Anselm</author>
+            </bibl>
+            <bibl xml:id="Anselm_CurDeusHomo">
+                <title>Cur Deus homo</title>
                 <author ref="#Anselm">Anselm</author>
             </bibl>
             <bibl xml:id="SummaAurea">
