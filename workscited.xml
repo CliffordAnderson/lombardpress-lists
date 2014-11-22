@@ -456,8 +456,8 @@
                 <title>On the Wrath of God</title>
                 <author ref="#Lactantius">Lactantius</author>
             </bibl>
-            <bibl xml:id="deCaelestiHierarchia">
-                <title>de Caelesti Hierarchia</title>
+            <bibl xml:id="deCoelestiHierarchia">
+                <title>De Coelesti Hierarchia</title>
                 <author ref="#Dionysius">Ps-Dionysius</author>
             </bibl>
             <bibl xml:id="deDivinisNominibus">
