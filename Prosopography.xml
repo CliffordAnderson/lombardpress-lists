@@ -29,138 +29,214 @@
     <body>
         <listPerson xml:id="prosopography">
         <listPerson type="Arabic">
+            <person>
+                <PersName xml:lang="en">Muhammad</PersName></person>
+                <PersName xml:lang="la">Algoritmi</PersName></person><!-- not 100% sure if this is the same person -->
             <person xml:id="Avicenna">
-                <persName>Avicenna</persName>
+                <PersName xml:lang="la">Avicenna</PersName>
             </person>
             <person xml:id="Averroes">
-                <persName>Averroes</persName>    
+                <PersName xml:lang="en">Averroes</PersName>    
             </person>
             <person xml:id="Alkindi">
-                <persName>Alkindi</persName>
+                <PersName xml:lang="en">Alkindi</PersName>
             </person>
             <person xml:id="Muhummad">
-                <persName>Muhammad</persName>
+                <PersName>Muhammad</PersName><!-- Same as Muhammad? -->
             </person>
             <person xml:id="Albumasar">
-                <persName>Albumasar</persName>
+                <PersName xml:lang="en">Albumasar</PersName>
             </person>
             <person xml:id="Algasar">
-                <persName>Algasar</persName>
+                <PersName xml:lang="en">Algasar</PersName>
             </person>
             
         </listPerson>
         <listPerson type="Biblical">
-            <person xml:id="Paul">
-                <persName>Paul, the Apostle</persName>
+            <person xml:id="Seraphus">
+                <PersName xml:lang="en">Seraphim</PersName>
+                <PersName xml:lang="la">Seraphus</PersName>
             </person>
-            <person xml:id="James">
-                <persName>James, the Apostle</persName>
+            <person>
+                <PersName xml:lang="en">Satan</PersName>
+                <PersName xml:lang="la">Diabolus</PersName><!-- Latin name? -->
             </person>
-            <person xml:id="John">
-                <persName>John, the Apostle</persName>
+            <person xml:id="PontiusPilatus">
+                <PersName xml:lang="en">Pontius Pilate</PersName>
+                <PersName xml:lang="la">Pontius Pilatus</PersName>
+            </person>   
+            <person>
+                <PersName xml:lang="en">Pharaoh</PersName> <!-- not sure which Pharaoh this means -->
             </person>
-            <person xml:id="David">
-                <persName>David, King</persName>
+            <person xml:id="Magdelene">
+                <PersName xml:lang="en">Mary Magdelene</PersName>
+                <PersName xml:lang="la">Maria Magdelene</PersName>
             </person>
-            <person xml:id="Saul">
-                <persName>Saul, King</persName>
+            <person>
+                <PersName>Magi of Pharaoh</PersName>
             </person>
-            <person xml:id="Nebuchadnezzar">
-                <persName>Nabuchadnezzar, King</persName>
+            <person xml:id="Josue">
+                <PersName xml:lang="en">Joshua</PersName>
+                <PersName xml:lang="la">Josue</PersName>
+            </person>
+            <person xml:id="Joseph">
+                <PersName xml:lang="en">Joseph</PersName>
+                <PersName xml:lang="la">Joseph</PersName><!-- Joseph or Joshephus? -->
+            <person xml:id="Hiezabel">
+                <PersName xml:lang="en">Jezebel</PersName>
+                <PersName xml:lang="la">Hiezabel</PersName>
+            </person>
+            <person xml:id="Hieremia">
+                <PersName xml:lang="en">Jeremiah</PersName>
+                <PersName xml:lang="la">Hieremia</PersName>
+            </person>
+            <person xml:id="Isaias">
+                <PersName xml:lang="en">Isaiah</PersName>
+                <PersName xml:lang="la">Isaias</PersName>
+            </person>
+            <person xml:id="Gabrihel">
+                <PersName xml:lang="en">Gabriel</PersName>
+                <PersName xml:lang="la">Gabrihel</PersName>
+            </person>
+            <person xml:id="Daniel">
+                <PersName xml:lang="en">Daniel</PersName>
+                <PersName xml:lang="la">Daniel</PersName>
             </person>
             <person xml:id="Caiaphas">
-                <persName>Caiaphas</persName>
+                <PersName xml:lang="en">Joseph Caiaphas</PersName>
+                <PersName xml:lang="la">Joseph Caiaphas</PersName>
             </person>
+            <person xml:id="Paul">
+                <PersName xml:lang="en">Paul, the Apostle</PersName>
+                <PersName xml:lang="la">Paulus</PersName>
+            </person>
+            <person xml:id="James">
+                <PersName xml:lang="en">James, the Apostle</PersName>
+                <PersName xml:lang="la">Jacobus</PersName><!-- Is this person different from Jacob? Is there a way to differentiate the Latin names? -->
+            </person>
+            <person xml:id="John">
+                <persName xml:lang="en">John, the Apostle</persName>
+                <PersName xml:lang="la">Ioannes</PersName>
+            </person>
+            <person xml:id="David">
+                <persName xml:lang="en">David, King</persName>
+                <PersName xml:lang="la">David</PersName><!-- Rex? -->
+            </person>
+            <person xml:id="Saul">
+                <persName xml:lang="en">Saul, King</persName>
+                <PersName xml:lang="la">Saul</PersName>
+            </person>
+            <person xml:id="Nebuchadnezzar">
+                <persName xml:lang="en">Nabuchadnezzar, King</persName><!-- couldn't find Latin name -->
             <person xml:id="Esau">
-                <persName>Esau</persName>
+                <persName xml:lang="en">Esau</persName>
+                <PersName xml:lang="la">Esau</PersName>
             </person>
             <person xml:id="Jacob">
-                <persName>Jacob</persName>
+                <persName xml:lang="en">Jacob</persName>
+                <PersNAme xml:lang="la">Jacobus</PersNAme>
             </person>
             <person xml:id="Lea">
-                <persName>Lea</persName>
+                <persName xml:lang="en">Lea</persName> 
             </person>
             <person xml:id="Jona">
-                <persName>Jonah</persName>
+                <persName xml:lang="en">Jonah</persName>
+                <PersName xml:lang="la">Jona</PersName>
             </person>
             <person xml:id="Job">
-                <persName>Job</persName>
+                <persName xml:lang="en">Job</persName>
+                <PersName xml:lang="la">Job</PersName>
             </person>
             <person xml:id="Noah">
-                <persName>Noah</persName>
+                <persName xml:lang="en">Noah</persName>
             </person>
             <person xml:id="Peter">
-                <persName>Peter, the Apostle</persName>
+                <persName xml:lang="en">Peter, the Apostle</persName>
+                <PersName xml:lang="la">Petrus</PersName>
             </person>
             <person xml:id="Lucifer">
-                <persName>Lucifer</persName>
+                <persName xml:lang="en">Lucifer</persName>
+                <PersName xml:lang="la">Lucifer</PersName>
             </person>
             <person xml:id="Israel">
-                <persName>Israel</persName>
+                <persName xml:lang="en">Israel</persName>
+                <PersName xml:lang="la">Israhel </PersName><!-- This is a place, not a name ?? -->
             </person>
             
             <person xml:id="Mary">
-                <persName>Mary, Virgin</persName>
+                <persName xml:lang="en">Mary, Virgin</persName>
+                <PersName xml:lang="la">Maria</PersName>
             </person>
             <person xml:id="Lot">
-                <persName>Lot</persName>
+                <persName xml:lang="en">Lot</persName>
+                <PersName xml:lang="la">Loth</PersName>
             </person>
             <person xml:id="Abraham">
-                <persName>Abraham</persName>
+                <persName xml:lang="en">Abraham</persName>
+                <PersName xml:lang="la">Abraham</PersName>
             </person>
             <person xml:id="Balaam">
-                <persName>Balaam</persName>
+                <persName xml:lang="en">Balaam</persName>
+                <persName xml:lang="la">Balaam</persName>
             </person>
             <person xml:id="Balak">
-                <persName>Balak</persName>
+                <persName xml:lang="en">Balak</persName>
                 <note>So Balak son of Zippor, who was king of Moab at that time Cf. Numbers 22:4</note>
             </person>
             <person xml:id="Moses">
-                <persName>Moses</persName>
+                <persName xml:lang="en">Moses</persName>
+                <persName xml:lang="la">Moses</persName>
             </person>
-            <person xml:id="Matthias">
-                <persName>Mathias</persName>
+            <person xml:id="Matthias"> <!-- Should this have two "t"s? Is it the same in Latin? -->
+                <persName xml:lang="la">Mathias</persName>
                 <note>Mathias is mentioned in Acts Chapter 1</note>
             </person>
             <person xml:id="JosephBarsabbas">
-                <persName>Joseph Barsabbas</persName>
+                <persName xml:lang="en">Joseph Barsabbas</persName> 
+                <persName xml:lang="la">Barsabbas</persName><!-- I also found Iustus for this? -->
                 <note>Joseph Barsabbas is mentioned in Acts Chapter 1</note>
             </person>
             
             <person xml:id="SimonMagician">
-                <persName>Simon the Magician</persName>
+                <persName xml:lang="en">Simon the Magician</persName>
+                <PersName xml:lang="la">Simon Magus</PersName>
             </person>
             
             <person xml:id="Ezra">
-                <persName>Ezra</persName>
+                <persName xml:lang="en">Ezra</persName>
+                <PersName xml:lang="la">Ezra</PersName>
             </person>
             <person xml:id="Nehemiah">
-                <persName>Nehemiah</persName>
+                <persName xml:lang="en">Nehemiah</persName>
+                <persName xml:lang="la">Neemia</persName>
             </person>
             <person xml:id="MichaelArchangel">
-                <persName>Michael the Archangel</persName>
+                <persName xml:lang="en">Michael the Archangel</persName>
+                <PersName xml:lang="la">Michahel Archangelus</PersName>
             </person>
             <person xml:id="Gamaliel">
-                <persName>Gamaliel</persName>
+                <persName xml:lang="en">Gamaliel</persName>
+                <PersName xml:lang="la">Gamalihel</PersName>
                 <note>Acts 5:34 "But a Pharisee named Gamaliel, a teacher of the law, who was honored by all the people, stood up in the Sanhedrin and ordered that the men be put outside for a little while."</note>
             </person>
             <person xml:id="Abel">
-                <persName>Abel</persName>
+                <persName xml:lang="en">Abel</persName>
+                <PersName xml:lang="la">Abel</PersName>
             </person>
             <person xml:id="Solomon">
-                <persName>Solomon</persName>
+                <persName xml:lang="en">Solomon</persName>
+                <PersName xml:lang="la">Salomon</PersName>
             </person>
             <person xml:id="JudasIscariot">
-                <persName>Judas Iscariot</persName>
-            </person>
-            <person xml:id="Jezebel">
-                <persName>Jezebel</persName>
-            </person>
+                <persName xml:lang="en">Judas Iscariot</persName>
+                <PersName xml:lang="la">Juda Scarioth</PersName>
             <person xml:id="Adam">
-                <persName>Adam</persName>
+                <persName xml:lang="en">Adam</persName>
+                <PersName xml:lang="la">Adam</PersName>
             </person>
             <person xml:id="JohnTheBaptist">
-                <persName>John The Baptist</persName>
+                <persName xml:lang="en">John The Baptist</persName>
+                <PersName xml:lang="la">Johannes Baptista</PersName>
             </person>
             <person xml:id="Achas">
                 <persName>Achas</persName>
@@ -168,11 +244,65 @@
             </person>
         </listPerson>
         <listPerson type="Classical">
+            <person xml:id="Zeno">
+                <persName xml:lang="en">Zeno of Elea</persName>
+            </person>
+            <person xml:id="Varro">
+                <persName xml:lang="la">Marcus Terentius Varro</persName>
+            </person>
+            <person xml:id="Venus">
+                <persName>Venus</persName>
+            </person>
+            <person xml:id="Tiresias">
+                <persName>Tiresias</persName>
+            </person>
+            <person>
+                <persName>Tiberius</persName><!-- Wait is this refering to Tiberias Gracchus or is there a religious figure with this name? -->
+            </person>
+            <person xml:id="Pythagoras">
+                <persName>Pythagoras</persName></person>
+            <person xml:id="Priam">
+                <persName xml:lang="en">Priam</persName>
+                <PersName xml:lang="la">Priamus</PersName>
+            </person>
+            <person xml:id="Ovid">
+                <persName xml:lang="en">Ovid</persName>
+                <PersName xml:lang="la">Ovidius</PersName>
+            </person>
+            <person xml:id="Oedipus">
+                <persName>Oedipus</persName>
+            </person>
+            <person>
+                <persName>Octavius</persName><!-- Not sure how you want to do this one Octavius/Augustus? -->
+            </person>
+            <person xml:id="Mercury">
+                <persName xml:lang="en">Mercury</persName>
+                <PersName xml:lang="la">Mercurius</PersName>
+            </person>
+            <person xml:id="Mars">
+                <persName>Mars</persName>
+            </person>
+            <person xml:id="Hector">
+                <persName>Hector</persName>
+            </person>
+            <person xml:id="Darius">
+                <persName>Darius</persName>
+            </person>
+            <person xml:id="Cleopatra">
+                <persName>Cleopatra</persName>
+            </person>
+            <person xml:id="Apuleius">
+                <persName>Lucius Apuleius Madaurensis</persName>
+            </person>
+            <person xml:id="Aeneas">
+                <persName>Aeneas</persName>
+            </person>
             <person xml:id="Aristotle">
-                <persName>Aristotle</persName>
+                <persName xml:lang="en">Aristotle</persName>
+                <PersName xml:lang="la">Aristotoles</PersName>
             </person>
             <person xml:id="Cicero">
-                <persName>Cicero</persName>
+                <persName>Marcus Tulius Cicero</persName>
             </person>
             <person xml:id="Plato">
                 <persName>Plato</persName>
@@ -181,28 +311,31 @@
                 <persName>Anaxagoras</persName>
             </person>
             <person xml:id="JuliusCaesar">
-                <persName>Julius Cesar</persName>
+                <persName>Julius Caesar</persName>
             </person>
             <person xml:id="Pompey">
-                <persName>Pompey</persName>
+                <persName xml:lang="en">Pompey the Great</persName>
+                <PersName xml:lang="la">Pompeius Magnus</PersName>
             </person>
             <person xml:id="Demosthenes">
                 <persName>Demosthenes</persName>
             </person>
             <person xml:id="Macrobius">
-                <persName>Macrobius</persName>
+                <persName xml:lang="en">Macrobius</persName>
+                <PersName xml:lang="la">Macrobius Ambrosius Theodosius</PersName>
             </person>
             <person xml:id="Virgil">
                 <persName xml:lang="en">Virgil</persName>
+                <PersName xml:lang="la">Publius Vergilius Maro</PersName>
             </person>
             <person xml:id="Seneca">
-                <persName>Seneca</persName>
+                <persName>Seneca</persName><!-- the elder or younger? -->
             </person>
             <person xml:id="Epicurus">
                 <persName>Epicurus</persName>
             </person>
             <person xml:id="Trismegistus">
-                <persName>Hermes Trismegistus</persName>
+                <persName>Hermes Trismegistus</persName><!-- Same as Mercury -->
             </person>
             <person xml:id="Sortes">
                 <persName>Sortes</persName>
@@ -211,47 +344,53 @@
                 <persName>Socrates</persName>
             </person>
             <person xml:id="Porphyry">
-                <persName>Porphyry</persName>
+                <persName xml:lang="en">Porphyry of Tyre</persName><!-- couldn't find latin name -->
             </person>
             <person xml:id="Ptolemy">
-                <persName>Ptolemy</persName>
+                <persName xml:lang="en">Claudius Ptolemy</persName>
+                <PerName xml:lang="la">Claudius Ptolemaeus</PerName>
             </person>
             <person xml:id="Achilles">
-                <persName>Achilles</persName>
+                <persName xml:lang="en">Achilles</persName>
+                <PersName xml:lang="la">Achilleus</PersName>
             </person>
             <person xml:id="Plotinus">
                 <persName>Plotinus</persName>
             </person>
             <person xml:id="Simplicius">
-                <persName>Simplicius</persName>
+                <persName>Simplicius</persName><!-- Pope Simplicius -->
             </person>
             <person xml:id="Apollo">
                 <persName>Apollo</persName>
             </person>
             <person xml:id="Melissus">
-                <persName>Melissus of Samos</persName>
+                <persName xml:lang="en">Melissus of Samos</persName>
+                <persName xml:lang="la">Melissus</persName>
             </person>
             <person xml:id="Diogenes">
-                <persName>Diogenes of Sinope</persName>
+                <persName>Diogenes of Sinope</persName><!-- should we condense this with the entry below? -->
             </person>
             <person xml:id="Empedocles">
                 <persName>Diogenes of Sinope</persName>
             </person>
             <person xml:id="Josephus">
-                <persName>Josephus Flavius</persName>
+                <persName xml:lang="en">Josephus Flavius</persName>
+                <PersName xml:lang="la">Titus Flavius Josephus</PersName>
             </person>
             <person xml:id="Solon">
                 <persName>Solon</persName>
             </person>
             <person xml:id="AlexanderTheGreat">
-                <persName>Alexander the Great</persName>
+                <persName xml:lang="en">Alexander the Great</persName>
             </person>
             
             <person xml:id="Parmenides">
-                <persName>Parmenides</persName>
+                <persName xml:lang="en">Parmenides of Elea</persName>
+                <PersName xml:lang="la">Parmenides</PersName>
             </person>
             <person xml:id="Jupiter">
-                <persName>Jupiter</persName>
+                <persName xml:lang="en">Jupiter, Jove</persName>
+                <PersName xml:lang="la">Juppiter</PersName>
             </person>
             <person xml:id="Saturn">
                 <persName>Saturn</persName>
@@ -261,7 +400,8 @@
                 <persName>Euclid</persName>
             </person>
             <person xml:id="Autolycus">
-                <persName>Autolycus of Pitane</persName>
+                <persName xml:lang="en">Autolycus of Pitane</persName>
+                <PersName xml:lang="la">Autolycus</PersName>
                 <note>Spell MESSEELLACH by William of Auvergne edited Griet Galle, 2003 - GL http://books.google.com/books?id=A8PpoJAyJ3wC</note>
             </person>
             <person xml:id="Eustratius">
@@ -269,7 +409,7 @@
                 <note>Not really classical, but wrote commentary on Aristotle: Wikipedia: "Eustratius of Nicaea (Greek: Εὐστράτιος; c. 1050/1060-c. 1120)[1] was Metropolitan bishop of Nicaea in the early 12th century. He wrote commentaries to Aristotle's second book of Analytica and the Ethica Nicomachea."</note>
             </person>
             <person xml:id="JuliusFirmicus">
-                <persName>Julius Firmicus Maternus</persName>
+                <persName xml:lang="la">Julius Firmicus Maternus</persName>
             </person>
             <person xml:id="Clotho">
                 <persName>Clotho</persName>
@@ -293,89 +433,122 @@
         </listPerson>
         <listPerson type="Divine">
             <person xml:id="God">
-                <persName>God</persName>
+                <persName xml:lang="en">God</persName>
+                <PersName xml:lang="la">Deus</PersName>
             </person>
             <person xml:id="Christ">
-                <persName>Christ</persName>
+                <persName xml:lang="en">Jesus Christ</persName>
+                <PersName xml:lang="la">Jesus Christus</PersName>
             </person>
             <person xml:id="Trinity">
-                <persName>Trinity</persName>
+                <persName xml:lang="en">Trinity</persName>
             </person>
             <person xml:id="Father">
-                <persName>Father</persName>
+                <persName xml:lang="en">Father</persName>
+                <PersName xml:lang="la">Pater</PersName>
             </person>
             <person xml:id="Son">
-                <persName>Son</persName>
+                <persName xml:lang="en">Son</persName>
+                <PersName xml:lang="la">Filius</PersName>
             </person>
             <person xml:id="HolySpirit">
-                <persName>Holy Spirit</persName>
+                <persName xml:lang="en">Holy Spirit</persName>
+                <PersName xml:lang="la">Spiritus Sancti</PersName>
             </person>
         </listPerson>
         <listPerson type="Patristic">
-            
-            <person xml:id="Boethius">
-                <persName>Boethius</persName>
+            <person xml:id="PeterDamian">
+                <persName xml:lang="en">Peter Damian</persName>
+                <PersName xml:lang="la">Petrus Damiani</PersName>
+            </person>
+            <person xml:id="PaulSamosata">
+                <persName xml:lang="en">Paul of Samosata</persName>
+            </person>
+            <person xml:id="Eusebius">
+                <persName xml:lang="en">Eusebius of Caesarea</persName>
+                <PersName xml:lang="la">Eusebius Pamphili</PersName>
+            </person>
+            <person xml:id="Bede">
+                <persName xml:lang="en">Bede</persName>
+                <PersName xml:lang="la">Beda Venerabilis</PersName>
             </person>
             <person xml:id="Athanasius">
-                <persName>Athanasius</persName>
+                <persName xml:lang="en">Athanasius of Alexandria</persName>
+            </person>
+            <person xml:id="SaintAnthony"><!-- Not sure about this one -->
+                <persName xml:lang="en">Saint Anthony of Padua</persName>
+            </person>
+            <person xml:id="Boethius">
+                <persName xml:lang="en">Boethius</persName>
+                <PersName xml:lang="la">Anicius Manlius Severinus Boethius</PersName>
             </person>
             <person xml:id="Augustine">
-                <persName>Augustine</persName>
+                <name xml:lang="la">Augustinus</name>
+                <name xml:lang="en">Augustine</name>
             </person>
             <person xml:id="Dionysius">
                 <persName>Pseudo-Dionysius</persName>
             </person>
             <person xml:id="Gratian" >
-                <persName>Gratian</persName>
+                <persName xml:lang="en">Gratian</persName>
+                <PersName xml:lang="la">Flavius Gratianus Augustus</PersName>
             </person>
             <person xml:id="GregoryGreat">
-                <persName>Gregory the Great</persName>
+                <persName xml:lang="en">Gregory the Great</persName>
+                <PersName xml:lang="la">Gregorius</PersName>
             </person>
             <person xml:id="Jerome">
-                <persName>Jerome</persName>
+                <persName xml:lang="en">Jerome</persName>
+                <PersName xml:lang="la">Eusebius Sophronius Hieronymus</PersName>
             </person>
             <person xml:id="Lactantius">
-                <persName>Lactantius</persName>
+                <persName xml:lang="en">Lactantius</persName>
+                <PersName xml:lang="la">Lucius Caecilius Firmianus Lactantius</PersName>
             </person>
             <person xml:id="Pelagius">
                 <persName>Pelagius</persName>
             </person>
             <person xml:id="Origen">
-                <persName>Origen Admantius</persName>
+                <persName xml:lang="la">Origen Admantius</persName>
             </person>
             <person xml:id="JohnDamascenus">
-                <persName>John the Damascene</persName>
+                <persName xml:lang="en">John the Damascene</persName>
+                <PersName xml:lang="la">Johannes Damascenus</PersName>
             </person>
             <person xml:id="Arius">
                 <persName>Arius</persName>
             </person>
             <person xml:id="Ambrose">
-                <persName>Ambrose of Milan</persName>
+                <persName xml:lang="en">Ambrose of Milan</persName>
+                <PersName xml:lang="la">Aurelius Ambrosius</PersName>
             </person>
             <person xml:id="Cyprian">
-                <persName>Cyprian</persName>
+                <persName xml:lang="en">Cyprian</persName>
+                <PersName xml:lang="la">Thascius Caecilius Cyprianus</PersName>
             </person>
             <person xml:id="Claudianus">
                 <persName>Claudianus Mamertus</persName>
             </person>
             <person xml:id="Julian">
-                <persName>Julian</persName>
+                <persName>Julian</persName><!-- Not sure exactly who this is -->
                 <note>The person Augustine argued with along with Pelagius (see lectio 98 for example)</note>
             </person>
             <person xml:id="Sabellius">
                 <persName>Sabellius</persName>
             </person>
-            <person xml:id="Cyril">
+            <person xml:id="Cyril"><!-- This could refer to multiple people -->
                 <persName>Cyril</persName>
             </person>
             <person xml:id="Nestorius">
                 <persName>Nestorius</persName>
             </person>
             <person xml:id="Victorinus">
-                <persName>Victorinus</persName>
+                <persName xml:lang="en">Victorinus</persName>
+                <PersName xml:lang="la">Marcus Piavonius Victorinus</PersName><!-- Not completely sure this is right person -->
             </person>
             <person xml:id="IsidoreOfSeville">
-                <persName>Isidore of Seville</persName>
+                <persName xml:lang="en">Isidore of Seville</persName>
+                <PersName xml:lang="la">Isidorus Hispalensis</PersName>
             </person>
             <person xml:id="PopeSylvesterI">
                 <persName>Pope Sylvester I</persName>
@@ -397,17 +570,22 @@
             </person>
             
             <person xml:id="HilaryOfPoitiers">
-                <persName>Hilary of Poitiers</persName>
+                <persName xml:lang="en">Hilary of Poitiers</persName>
+                <PersName xml:lang="la">Hilarius</PersName>
             </person>
-            <person xml:id="Didymus">
+            <person xml:id="Didymus"><!-- Could refer to multiple people -->
                 <persName>Didymus</persName>
             </person>
             <person xml:id="JohnChrysostom">
-                <persName>John Chrysostam</persName>
+                <persName xml:lang="en">John Chrysostom</persName>
+                <PersName xml:lang="la">Johannes Chrysostomos</PersName>
             </person>
             
         </listPerson>
         <listPerson type="Scholastic">
+            <person><persName>Roger Bacon</persName></person>
+            <person><persName>Plaoul</persName></person>
+            <person><persName>Jean Charlier de Gerson</persName></person>
             <person xml:id="Aquinas">
                 <persName>Thomas Aquinas</persName>
                 <note type="dbpedia-url">http://dbpedia.org/resource/Thomas_Aquinas</note>

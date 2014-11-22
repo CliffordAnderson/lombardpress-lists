@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Person Groups</title>
+        </titleStmt>
+        <editionStmt>
+            <edition n="2013.03">
+                <title>Person Groups</title>
+                <date when="2013-03-07">March 7, 2013</date>
+            </edition>
+        </editionStmt>
+        <publicationStmt>
+            <publisher>Petrus Plaoul Editio Critica Electronica (PPECE)</publisher>
+            <pubPlace>Baltimore, MD</pubPlace>
+            <availability status="free">
+                <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+            </availability>
+            <date when="2013-03-07">March 7, 2013</date>  
+        </publicationStmt>
+        <sourceDesc>
+            <p>Born Digital</p>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+<text xml:lang="en">
+    <body>
+        <listPerson type="Groups">
+            <personGrp xml:id="Astrologers">
+                <persName>Astrologers</persName>
+            </personGrp>
+            <personGrp xml:id="Sarracens">
+                <persName>Sarracens</persName>
+            </personGrp>
+            <personGrp xml:id="Jews">
+                <persName>Jews</persName>
+            </personGrp>
+            <personGrp xml:id="MagiOfPharaoh">
+                <persName>Magi of Pharaoh</persName>
+            </personGrp>
+            <personGrp xml:id="Apostles">
+                <persName>Apostles</persName>
+            </personGrp>
+            <personGrp xml:id="Chaldeans">
+                <persName>Chaldeans</persName>
+            </personGrp>
+            <personGrp xml:id="Greeks">
+                <persName>Greeks</persName>
+            </personGrp>
+            <personGrp xml:id="Romans">
+                <persName>Romans</persName>
+            </personGrp>
+            <personGrp xml:id="Pagans">
+                <persName>Pagans</persName>
+            </personGrp>
+            <personGrp xml:id="Platonists">
+                <persName>Platonists</persName>
+            </personGrp>
+            <personGrp xml:id="Latins">
+                <persName>Latins</persName>
+            </personGrp>
+            <personGrp xml:id="formalizantes">
+                <persName>Formalizantes</persName>
+            </personGrp>
+            <personGrp xml:id="Philosophers">
+                <persName>Philosophers</persName>
+            </personGrp>
+            <personGrp xml:id="Prophets">
+                <persName>Prophets</persName>
+            </personGrp>
+            <personGrp xml:id="Theologians">
+                <persName>Theologians</persName>
+            </personGrp>
+        </listPerson>
+            
+       
+    </body>
+</text>
+</TEI>
