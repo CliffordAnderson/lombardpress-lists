@@ -72,6 +72,24 @@
             <personGrp xml:id="Theologians">
                 <persName>Theologians</persName>
             </personGrp>
+            <personGrp xml:id="Anglici">
+                <persName>The English</persName>
+            </personGrp>
+            <personGrp xml:id="Epicureans">
+                <persName>Epicureans</persName>
+            </personGrp>
+            <personGrp xml:id="Manicheans">
+                <persName>Manicheans</persName>
+            </personGrp>
+            <personGrp xml:id="Muslims">
+                <persName>Muslims</persName>
+            </personGrp>
+            <personGrp xml:id="Scotists">
+                <persName>Scotists</persName>
+            </personGrp>
+            
+            
+            
         </listPerson>
     </body>
 </text>

@@ -38,7 +38,7 @@
             <person xml:id="Alkindi">
                 <persName xml:lang="en">Alkindi</persName>
             </person>
-            <person xml:id="Muhummad">
+            <person xml:id="Muhammad">
                 <persName xml:lang="en">Muhammad</persName>
             </person>
             <person xml:id="Albumasar">
@@ -47,14 +47,18 @@
             <person xml:id="Algasar">
                 <persName xml:lang="en">Algasar</persName>
             </person>
+            <person xml:id="Algazali">
+                <persName xml:lang="en">Algazali</persName>
+            </person>
+            
             
         </listPerson>
         <listPerson type="Biblical">
-            <person xml:id="Seraphus">
+            <person xml:id="Seraphim">
                 <persName xml:lang="en">Seraphim</persName>
                 <persName xml:lang="la">Seraphus</persName>
             </person>
-            <person xml:id="Satanus">
+            <person xml:id="Satan">
                 <persName xml:lang="en">Satan</persName>
                 <persName xml:lang="la">Satanas</persName><!-- Latin name? -->
             </person>
@@ -65,11 +69,11 @@
             <person xml:id="Pharaoh">
                 <persName xml:lang="en">Pharaoh</persName> <!-- not sure which Pharaoh this means -->
             </person>
-            <person xml:id="Magdelene">
+            <person xml:id="MaryMagdelene">
                 <persName xml:lang="en">Mary Magdelene</persName>
                 <persName xml:lang="la">Maria Magdelene</persName>
             </person>
-            <person xml:id="Josue">
+            <person xml:id="Joshua">
                 <persName xml:lang="en">Joshua</persName>
                 <persName xml:lang="la">Josue</persName>
             </person>
@@ -77,11 +81,11 @@
                 <persName xml:lang="en">Joseph</persName>
                 <persName xml:lang="la">Joseph</persName><!-- Joseph or Joshephus? -->
             </person>
-            <person xml:id="Hiezabel">
+            <person xml:id="Jezabel">
                 <persName xml:lang="en">Jezebel</persName>
                 <persName xml:lang="la">Hiezabel</persName>
             </person>
-            <person xml:id="Hieremia">
+            <person xml:id="Jeremiah">
                 <persName xml:lang="en">Jeremiah</persName>
                 <persName xml:lang="la">Hieremia</persName>
             </person>
@@ -89,7 +93,7 @@
                 <persName xml:lang="en">Isaiah</persName>
                 <persName xml:lang="la">Isaias</persName>
             </person>
-            <person xml:id="Gabrihel">
+            <person xml:id="Gabriel">
                 <persName xml:lang="en">Gabriel</persName>
                 <persName xml:lang="la">Gabrihel</persName>
             </person>
@@ -135,7 +139,7 @@
             <person xml:id="Lea">
                 <persName xml:lang="en">Lea</persName> 
             </person>
-            <person xml:id="Jona">
+            <person xml:id="Jonah">
                 <persName xml:lang="en">Jonah</persName>
                 <persName xml:lang="la">Jona</persName>
             </person>
@@ -158,7 +162,6 @@
                 <persName xml:lang="en">Israel</persName>
                 <persName xml:lang="la">Israhel </persName><!-- This is a place, not a name ?? -->
             </person>
-            
             <person xml:id="Mary">
                 <persName xml:lang="en">Mary, Virgin</persName>
                 <persName xml:lang="la">Maria</persName>
@@ -243,7 +246,16 @@
                 <persName xml:lang="en">Hezekiah</persName>
             </person>
             <person xml:id="Ezekiel">
-                <persName xml:lang="en">Hezekiah</persName>
+                <persName xml:lang="en">Ezekiel</persName>
+            </person>
+            <person xml:id="Herod">
+                <persName xml:lang="en">Herod</persName>
+            </person>
+            <person xml:id="Jesus">
+                <persName xml:lang="en">Jesus</persName>
+            </person>
+            <person xml:id="Lia">
+                <persName xml:lang="en">Lia</persName>
             </person>
         </listPerson>
         <listPerson type="Classical">
@@ -304,6 +316,9 @@
             <person xml:id="Aristotle">
                 <persName xml:lang="en">Aristotle</persName>
                 <persName xml:lang="la">Aristotoles</persName>
+            </person>
+            <person xml:id="AlexanderAphrodisias">
+                <persName xml:lang="en">Alexander Aphrodisias</persName>
             </person>
             <person xml:id="Cicero">
                 <persName xml:lang="en">Marcus Tulius Cicero</persName>
@@ -625,7 +640,7 @@
             <person xml:id="Aureoli">
                 <persName xml:lang="en">Peter Aureoli</persName>
             </person>
-            <person xml:id="Bacon">
+            <person xml:id="RogerBacon">
                 <persName xml:lang="en">Roger Bacon</persName>
             </person>
             <person xml:id="WalterBurley">
@@ -658,7 +673,7 @@
             <person xml:id="Heytesbury">
                 <persName xml:lang="en">William Hetesbury</persName>
             </person>
-            <person xml:id="Kilvignton">
+            <person xml:id="RichardKilvington">
                 <persName xml:lang="en">Richard of Kilvington</persName>
             </person>
             <person xml:id="RichardOfStVictor">
@@ -701,13 +716,17 @@
                 <persName xml:lang="en">Henry of Langenstein</persName>
             </person>
             <person xml:id="JohnOfSalisbury">
-                <persName xml:lang="en">Henry of Langenstein</persName>
+                <persName xml:lang="en">John of Salisbury</persName>
             </person>
+            <person xml:id="JohnOfRodington">
+                <persName xml:lang="en">John of Rodington</persName>
+            </person>
+            
             <person xml:id="HugolinoOfOrvieto">
                 <persName xml:lang="en">Hugolino of Orvieto</persName>
             </person>
             <person xml:id="RichardFitzRalph">
-                <persName xml:lang="en">RichardFitzRalph</persName>
+                <persName xml:lang="en">Richard FitzRalph</persName>
             </person>
             <person xml:id="MarsiliusOfPadua">
                 <persName xml:lang="en">Marsilius Of Padua</persName>

@@ -403,6 +403,10 @@
                 <title>On Nature and Grace</title>
                 <author ref="#Augustine">Augustine</author>
             </bibl>
+            <bibl xml:id="deDoctrinaChristiana">
+                <title>De doctrina christiana</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
             <bibl xml:id="deVeraInnocentiae">
                 <title>de Vera Innocentiae</title>
                 <author ref="#Augustine">Augustine</author>
@@ -495,6 +499,11 @@
                 <title>Summa Contra Gentiles</title>
                 <author ref="#Aquinas">Thomas Aquinas</author>
             </bibl>
+            <bibl xml:id="Aquinas_deSeparatisSubstantiis">
+                <title>De separatis substantiis</title>
+                <author ref="#Aquinas">Thomas Aquinas</author>
+            </bibl>
+            
             <bibl xml:id="CausaDei">
                 <title>De Causa Dei</title>
                 <author ref="#Bradwardine">Thomas Bradwardine</author>
@@ -522,6 +531,10 @@
             <bibl xml:id="deTrinitateAuvergne">
                 <title>On the Trinity (Auvergne)</title>
                 <author ref="#WilliamOfParis">William of Auvergne</author>
+            </bibl>
+            <bibl xml:id="RichardOfStVictor_deTrinitate">
+                <title>On the Trinity (Richard Of St. Victor)</title>
+                <author ref="#RichardOfStVictor">Richard Of St. Victor</author>
             </bibl>
             <bibl xml:id="deUniverso">
                 <title>de Universo</title>
@@ -557,7 +570,7 @@
             </bibl>
             <bibl xml:id="deQuaestionibusArmenorum">
                 <title>Summa de quaestionibus Armenorum</title>
-                <author ref="#FitzRalph">Richard FitzRalph</author>
+                <author ref="#RichardFitzRalph">Richard FitzRalph</author>
             </bibl>
             <bibl xml:id="deCommunicationeIdiomatum">
                 <title>de communicatione idiomatum</title>
