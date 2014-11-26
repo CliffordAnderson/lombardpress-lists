@@ -489,6 +489,10 @@
                 <title>Decretals</title>
                 <author ref="#Gratian">Gratian</author>
             </bibl>
+            <bibl xml:id="HilaryOfPoitiers_DeTrinitate">
+                <title>De Trinitate (Hilary of Poitiers)</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
         </listBibl>
         <listBibl type="Scholastic">
             <bibl xml:id="SummaTheologica">

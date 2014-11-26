@@ -555,8 +555,9 @@
             <person xml:id="Sabellius">
                 <persName xml:lang="en">Sabellius</persName>
             </person>
-            <person xml:id="Cyril"><!-- This could refer to multiple people -->
-                <persName xml:lang="en">Cyril</persName>
+            <person xml:id="CyrilOfAlexandria">
+                <persName xml:lang="en">Cyril of Alexandria</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Cyril_of_Alexandria</note>
             </person>
             <person xml:id="Nestorius">
                 <persName xml:lang="en">Nestorius</persName>
@@ -587,10 +588,10 @@
             <person xml:id="PopeGregoryIV">
                 <persName xml:lang="en">Pope Gregory IV</persName>
             </person>
-            
             <person xml:id="HilaryOfPoitiers">
                 <persName xml:lang="en">Hilary of Poitiers</persName>
                 <persName xml:lang="la">Hilarius</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Hilary_of_Poitiers</note>
             </person>
             <person xml:id="Didymus"><!-- Could refer to multiple people -->
                 <persName xml:lang="en">Didymus</persName>
@@ -599,9 +600,19 @@
                 <persName xml:lang="en">John Chrysostom</persName>
                 <persName xml:lang="la">Johannes Chrysostomos</persName>
             </person>
+            <person xml:id="EunomiusOfCyzicus">
+                <persName xml:lang="en">Eunomius of Cyzicus</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Eunomius_of_Cyzicus</note>
+            </person>
+            <person xml:id="GregoryOfNazianzus">
+                <persName xml:lang="en">Gregory of Nazianzus</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Gregory_of_Nazianzus</note>
+            </person>
+            
             
         </listPerson>
         <listPerson type="Scholastic">
+            
             <person xml:id="JeanGerson">
                 <persName xml:lang="en">Jean Gerson</persName>
             </person>
@@ -632,6 +643,7 @@
             </person>
             <person xml:id="Ripa">
                 <persName xml:lang="en">John of Ripa</persName>
+                <!-- alias: John of Marchia -->
             </person>
             <person xml:id="Anselm">
                 <persName xml:lang="en">Anselm</persName>
@@ -782,6 +794,18 @@
                 <persName xml:lang="en">Bonsemblantes Baduarius</persName>
                 <note>See Zumkeller (translation) p. 48</note>
             </person>
+            <person xml:id="MonachusNiger">
+                <persName xml:lang="en">MonachusNiger</persName>
+                <note>See Courtenay, Adam Wodeham, p. 93-94</note> <!-- Monachus Niger may refere to more than one person, this entry was created for a use in Gracilis Book 1, question 14 -->
+            </person>
+            <person xml:id="RadulphusDeCastello">
+                <persName xml:lang="en">Randalphus of Castello</persName>
+            </person>
+            <person xml:id="FascinusOfAsti">
+                <persName xml:lang="en">Fascinus of Asti</persName>
+            </person>
+            
+            
         </listPerson>
         
         </listPerson>
