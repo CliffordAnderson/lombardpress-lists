@@ -330,6 +330,10 @@
                 <title>Posterior Analytics</title>
                 <author ref="#Aristotle">Aristotle</author>
             </bibl>
+            <bibl xml:id="PriorAnalytics">
+                <title>Prior Analytics</title>
+                <author ref="#Aristotle">Aristotle</author>
+            </bibl>
             <bibl xml:id="Meteorology">
                 <title>Meteorology</title>
                 <author ref="#Aristotle">Aristotle</author>
@@ -412,6 +416,15 @@
                 <author ref="#Augustine">Augustine</author>
                 <note>I think this is Pseudo Augustinian</note>
             </bibl>
+            <bibl xml:id="ContraEpistolamManichaei">
+                <title>Contra epistolam manichaei quam vocant fundamenti</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
+            <bibl xml:id="Enchiridion">
+                <title>Enchiridion de fide, spe et charitate <!-- alt title Enchiridio ad Laurentium --></title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
+            
             <bibl xml:id="Consolation">
                 <title>Consolation of Philosophy</title>
                 <author ref="#Boethius">Boethius</author>
@@ -440,6 +453,11 @@
                 <title>City of God</title>
                 <author ref="#Augustine">Augustine</author>
             </bibl>
+            <bibl xml:id="Soliloquiorum">
+                <title>Soliloquiorum</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
+            
             <bibl xml:id="deHebdomadibus">
                 <title>On the Hebdomads</title>
                 <author ref="#Boethius">Boethius</author>
@@ -507,6 +525,11 @@
                 <title>De separatis substantiis</title>
                 <author ref="#Aquinas">Thomas Aquinas</author>
             </bibl>
+            <bibl xml:id="Aquinas_deVeritate">
+                <title>De veritate</title>
+                <author ref="#Aquinas">Thomas Aquinas</author>
+            </bibl>
+            
             
             <bibl xml:id="CausaDei">
                 <title>De Causa Dei</title>

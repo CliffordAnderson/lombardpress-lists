@@ -89,6 +89,16 @@
                     <category xml:id="daemones">
                         <catDesc>daemones</catDesc>
                     </category>
+                    <category xml:id="dictio">
+                        <catDesc>dictio</catDesc>
+                        <category xml:id="dictio_exlusiva">
+                            <catDesc>dictio exclusiva</catDesc>
+                            <!-- found this phrase first in Gracilis, I, q. 21, 
+                                but also found it used Marsilius of Inghen, I, q. 24 (see pp. 86-90 of Critical Edition for example) 
+                                It is also found in Bonaventure, Book I, d. 21
+                            -->
+                        </category>
+                    </category>
                     <category xml:id="ecclesia">
                         <catDesc>ecclesia</catDesc>
                         <category xml:id="ecclesia_graeca">
