@@ -407,6 +407,10 @@
                 <title>On Nature and Grace</title>
                 <author ref="#Augustine">Augustine</author>
             </bibl>
+            <bibl xml:id="Retractationum">
+                <title>Retractationum libri duo</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
             <bibl xml:id="deDoctrinaChristiana">
                 <title>De doctrina christiana</title>
                 <author ref="#Augustine">Augustine</author>
@@ -420,11 +424,51 @@
                 <title>Contra epistolam manichaei quam vocant fundamenti</title>
                 <author ref="#Augustine">Augustine</author>
             </bibl>
+            <bibl xml:id="ContraFaustum">
+                <title>Contra Faustum Manichaeum libri triginta tres</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
+            <bibl xml:id="ContraDuasEpistolasPelagianorum">
+                <title>Contra Duas Epistolas Pelagianorum libri ad Bonifacium quatuor</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
+            <bibl xml:id="ContraMaximinum">
+                <title>Contra Maximinum Haereticum Episcopum Arianorum libri duo</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
+            <bibl xml:id="DeConsensuEvangelistarum">
+                <title>De Consensu Evangelistarum libri quatuor</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
             <bibl xml:id="Enchiridion">
                 <title>Enchiridion de fide, spe et charitate <!-- alt title Enchiridio ad Laurentium --></title>
                 <author ref="#Augustine">Augustine</author>
             </bibl>
+            <bibl xml:id="DeVeraReligione">
+                <title>De vera religione</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
+            <bibl xml:id="DeGratiaEtLiberoArbitrio">
+                <title>De gratia et libero arbitrio liber unus</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
             
+            <bibl xml:id="DeLiberoArbitrio">
+                <title>De libero arbitrio</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
+            <bibl xml:id="DePraedestinationeSanctorum">
+                <title>De Praedestinatione Sanctorum ad Prosperum et Hilarium liber unus</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
+            <bibl xml:id="DeHaeresibus">
+                <title>De Haeresibus ad Quodvultdeum liber unus</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
+            <bibl xml:id="ContraIulianum">
+                <title>Contra Iulianum opus imperfectum libri sex</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
             <bibl xml:id="Consolation">
                 <title>Consolation of Philosophy</title>
                 <author ref="#Boethius">Boethius</author>
@@ -445,8 +489,16 @@
                 <title>On the Morals of the Catholic Church</title>
                 <author ref="#Augustine">Augustine</author>
             </bibl>
+            <bibl xml:id="DeCorreptioneEtGratia">
+                <title>De correptione et gratia liber unus</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
             <bibl xml:id="HomiliesOnJohn">
                 <title>Homilies on John</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
+            <bibl xml:id="DeQuantitateAnimae">
+                <title>De quantitate animae liber unus</title>
                 <author ref="#Augustine">Augustine</author>
             </bibl>
             <bibl xml:id="CityOfGod">
@@ -529,8 +581,10 @@
                 <title>De veritate</title>
                 <author ref="#Aquinas">Thomas Aquinas</author>
             </bibl>
-            
-            
+            <bibl xml:id="DeMaximisTheologiae">
+                <title>De maximis theologiae</title>
+                <author ref="#AlanusDeInsulis">Alan of Lille</author>
+            </bibl>
             <bibl xml:id="CausaDei">
                 <title>De Causa Dei</title>
                 <author ref="#Bradwardine">Thomas Bradwardine</author>
@@ -545,6 +599,22 @@
             </bibl>
             <bibl xml:id="Anselm_CurDeusHomo">
                 <title>Cur Deus homo</title>
+                <author ref="#Anselm">Anselm</author>
+            </bibl>
+            <bibl xml:id="Anselm_DeLiberoArbitrio">
+                <title>De libero Arbitrio</title>
+                <author ref="#Anselm">Anselm</author>
+            </bibl>
+            <bibl xml:id="DeCasuDiaboli">
+                <title>De casu diaboli</title>
+                <author ref="#Anselm">Anselm</author>
+            </bibl>
+            <bibl xml:id="DeSimilitudinibus">
+                <title>De similitudinibus</title>
+                <author ref="#Anselm">Anselm</author>
+            </bibl>
+            <bibl xml:id="DeProcessioneSpiritusSancti">
+                <title>De processione Spiritus Sancti</title>
                 <author ref="#Anselm">Anselm</author>
             </bibl>
             <bibl xml:id="SummaAurea">
@@ -587,7 +657,11 @@
                 <title>On the Love of God</title>
                 <author ref="#Bernard">Bernard of Clairveaux</author>
             </bibl>
-            <bibl xml:id="OnTheOrderOfThings">
+            <bibl xml:id="DeDispensationeEtPraecepto">
+                <title>De dispensatione et praecepto</title>
+                <author ref="#Bernard">Bernard of Clairveaux</author>
+            </bibl>
+            <bibl xml:id="DeProprietatibusRerum">
                 <title>On the Order of Things</title>
                 <author ref="#BartholomeusAnglicus">Bartholomeus Anglicus</author>
             </bibl>
@@ -628,9 +702,14 @@
                 <title>De Sapientia Animae Christi</title>
                 <author ref="HughOfStVictor">Hugh of St. Victor</author>
             </bibl>
+            <!-- change these Senteces ideas to the actual commentary ids -->
             <bibl xml:id="SentencesRipa">
                 <title>Commentary on the Sentences (Ripa)</title>
                 <author ref="#Ripa">John de Ripa</author>
+            </bibl>
+            <bibl xml:id="SentencesOckham">
+                <title>Commentary on the Sentences (Ockham)</title>
+                <author ref="#Ockham">William of Ockham</author>
             </bibl>
             <bibl xml:id="SentencesAlbert">
                 <title>Commentary on the Sentences (Albert the Great)</title>

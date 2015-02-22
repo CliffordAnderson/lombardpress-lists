@@ -99,6 +99,13 @@
                             -->
                         </category>
                     </category>
+                    <category xml:id="fallacia">
+                        <catDesc>fallacia</catDesc>
+                        <category xml:id="fallacia_figurae_dictionis">
+                            <catDesc>fallacia figurae dictionis</catDesc>
+                            <!-- found this first in Gracilis Book I, q. 38 -->
+                        </category>
+                    </category>
                     <category xml:id="ecclesia">
                         <catDesc>ecclesia</catDesc>
                         <category xml:id="ecclesia_graeca">
