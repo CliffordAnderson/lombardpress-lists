@@ -233,6 +233,10 @@
                 <persName xml:lang="en">Adam</persName>
                 <persName xml:lang="la">Adam</persName>
             </person>
+            <person xml:id="Eva">
+              <persName xml:lang="en">Eve</persName>
+              <persName xml:lang="la">Eva</persName>
+            </person>
             <person xml:id="JohnTheBaptist">
                 <persName xml:lang="en">John The Baptist</persName>
                 <persName xml:lang="la">Johannes Baptista</persName>
@@ -832,8 +836,10 @@
                 <persName xml:lang="en">Alain of Lille</persName>
                 <note type="dbpedia-url">http://dbpedia.org/resource/Alain_de_Lille</note>
             </person>
-            
-            
+          <person xml:id="PetrusDePalude">
+            <persName xml:lang="en">Peter of Palude</persName>
+            <note type="dbpedia-url">http://en.wikipedia.org/wiki/Peter_Paludanus</note>
+          </person>
         </listPerson>
         
         </listPerson>

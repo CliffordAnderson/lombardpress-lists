@@ -481,10 +481,6 @@
                 <title>de Trinitate (Boethius)</title>
                 <author ref="#Boethius">Boethius</author>
             </bibl>
-            <bibl xml:id="DivineNames">
-                <title>On the Divine Names</title>
-                <author ref="#Dionysius">Pseudo-Dionysius</author>
-            </bibl>
             <bibl xml:id="MoralsOfCatholicChurch">
                 <title>On the Morals of the Catholic Church</title>
                 <author ref="#Augustine">Augustine</author>
@@ -562,6 +558,10 @@
             <bibl xml:id="HilaryOfPoitiers_DeTrinitate">
                 <title>De Trinitate (Hilary of Poitiers)</title>
                 <author ref="#Augustine">Augustine</author>
+            </bibl>
+            <bibl xml:id="Moralium">
+                <title>Moralium Libri Sive Expositio in Librum B. Iob</title>
+                <author ref="#GregoryGreat">Gregorius the Great</author>
             </bibl>
         </listBibl>
         <listBibl type="Scholastic">
