@@ -260,6 +260,9 @@
             <person xml:id="Lia">
                 <persName xml:lang="en">Lia</persName>
             </person>
+          <person xml:id="Philemon">
+            <persName xml:lang="en">Philemon</persName>
+          </person>
         </listPerson>
         <listPerson type="Classical">
             <person xml:id="Zeno">
@@ -421,7 +424,6 @@
             <person xml:id="Saturn">
                 <persName xml:lang="en">Saturn</persName>
             </person>
-            
             <person xml:id="Euclid">
                 <persName xml:lang="en">Euclid</persName>
             </person>
@@ -455,9 +457,9 @@
             <person xml:id="Homer">
                 <persName xml:lang="en">Homer</persName>
             </person>
-            
-            
-            
+            <person xml:id="Hercules">
+              <persName xml:lang="en">Hercules</persName>
+            </person>
         </listPerson>
         <listPerson type="Divine">
             <person xml:id="God">
@@ -755,7 +757,9 @@
             <person xml:id="JohnOfRodington">
                 <persName xml:lang="en">John of Rodington</persName>
             </person>
-            
+            <person xml:id="JohnKlenkok">
+              <persName xml:lang="en">John Klenkok</persName>
+            </person>
             <person xml:id="HugolinoOfOrvieto">
                 <persName xml:lang="en">Hugolino of Orvieto</persName>
             </person>
@@ -840,6 +844,10 @@
             <persName xml:lang="en">Peter of Palude</persName>
             <note type="dbpedia-url">http://en.wikipedia.org/wiki/Peter_Paludanus</note>
           </person>
+          <person xml:id="OsbertPickingham">
+            <persName xml:lang="en">Osbert Pickingham</persName>
+          </person>
+          
         </listPerson>
         
         </listPerson>
