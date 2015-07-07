@@ -510,10 +510,6 @@
                 <title>On the Hebdomads</title>
                 <author ref="#Boethius">Boethius</author>
             </bibl>
-            <bibl xml:id="onGenesis">
-                <title>Literal Commentary on Genesis</title>
-                <author ref="#Augustine">Augustine</author>
-            </bibl>
             <bibl xml:id="OnFaithToPeter">
                 <title>To Peter on the Faith</title>
                 <author ref="#Augustine">Augustine</author>
@@ -547,9 +543,27 @@
                 <title>Confessions</title>
                 <author ref="#Augustine">Augustine</author>
             </bibl>
-            <bibl xml:id="supraGenesim">
+            <!-- changed to below 
+              <bibl xml:id="supraGenesim">
                 <title>Supra Genesim</title>
                 <author ref="#Augustine">Augustine</author>
+            </bibl>
+            <bibl xml:id="onGenesis">
+                <title>Literal Commentary on Genesis</title>
+                <author ref="#Augustine">Augustine</author>
+            </bibl>
+            -->
+            <bibl xml:id="DeGenesiAdLitteram">
+              <title>De Genesi ad Litteram libri duodecim</title>
+              <author ref="#Augustine">Augustine</author>
+            </bibl>
+            <bibl xml:id="DeGenesiAdLitteramImperfectus">
+              <title>De Genesi ad Litteram imperfetus liber</title>
+              <author ref="#Augustine">Augustine</author>
+            </bibl>
+            <bibl xml:id="DeGenesiContraManichaeosLibriDuo">
+              <title>De Genesi contra Manichaeos libri duo</title>
+              <author ref="#Augustine">Augustine</author>
             </bibl>
             <bibl xml:id="Decretals">
                 <title>Decretals</title>
