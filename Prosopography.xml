@@ -49,8 +49,11 @@
             <person xml:id="Algazali">
                 <persName xml:lang="en">Algazali</persName>
             </person>
-            
-            
+            <person xml:id="Avicebron">
+              <!-- arabic is probably not the most precise category for this andalusian Jewish philosopher -->
+              <persName xml:lang="en">Avicebron</persName>
+              <note type="dbpedia-url">http://dbpedia.org/resource/Solomon_ibn_Gabirol</note>
+            </person>
         </listPerson>
         <listPerson type="Biblical">
             <person xml:id="Seraphim">
@@ -636,7 +639,9 @@
             
         </listPerson>
         <listPerson type="Scholastic">
-            
+          <person xml:id="HermanusDeSchildesche">
+            <persName xml:lang="en">Hermann of Schildesche</persName>
+          </person>
             <person xml:id="JeanGerson">
                 <persName xml:lang="en">Jean Gerson</persName>
             </person>
@@ -819,6 +824,10 @@
             <person xml:id="GerardusDeSiena">
                 <persName xml:lang="en">Gerard of Siena</persName>
             </person>
+            <person xml:id="GerardusDeCalcar">
+              <persName xml:lang="en">Gerard of Calcar</persName>
+            </person>
+          
             <person xml:id="BonsemblantesBaduarius">
                 <persName xml:lang="en">Bonsemblantes Baduarius</persName>
                 <note>See Zumkeller (translation) p. 48</note>
