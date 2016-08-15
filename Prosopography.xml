@@ -639,11 +639,17 @@
             
         </listPerson>
         <listPerson type="Scholastic">
-          <person xml:id="HermanusDeSchildesche">
+        	<person xml:id="JohnHiltalingenBasel">
+        		<persName xml:lang="en">John Hiltalingen of Basel</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Johann_Hiltalinger</note>
+            </person>
+          <person xml:id="HermannusDeScildis">
             <persName xml:lang="en">Hermann of Schildesche</persName>
+            <persName xml:lang="la">Hermannus de Scildis</persName>
           </person>
             <person xml:id="JeanGerson">
                 <persName xml:lang="en">Jean Gerson</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Jean_Gerson</note>
             </person>
             <person xml:id="Aquinas">
                 <persName xml:lang="en">Thomas Aquinas</persName>
@@ -655,6 +661,7 @@
             </person>
             <person xml:id="Albert">
                 <persName xml:lang="en">Albert the Great</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Albertus_Magnus</note>
             </person>
             <person xml:id="GilesOfRome">
                 <persName xml:lang="en">Giles of Rome</persName>
@@ -662,6 +669,7 @@
             </person>
             <person xml:id="Wodeham">
                 <persName xml:lang="en">Adam Wodeham</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Adam_de_Wodeham</note>
             </person>
             <person xml:id="Ockham">
                 <persName xml:lang="en">William of Ockham</persName>
@@ -669,6 +677,7 @@
             </person>
             <person xml:id="Scotus">
                 <persName xml:lang="en">John Duns Scotus</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Duns_Scotus</note>
             </person>
             <person xml:id="Ripa">
                 <persName xml:lang="en">John of Ripa</persName>
@@ -680,42 +689,56 @@
             </person>
             <person xml:id="Aureoli">
                 <persName xml:lang="en">Peter Aureoli</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Petrus_Aureolus</note>
             </person>
             <person xml:id="RogerBacon">
                 <persName xml:lang="en">Roger Bacon</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Roger_Bacon</note>
             </person>
             <person xml:id="WalterBurley">
                 <persName xml:lang="en">Walter Burley</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Walter_Burley</note>
             </person>
             <person xml:id="Campsall">
                 <persName xml:lang="en">Richard Campsall</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Richard_of_Campsall</note>
             </person>
             <person xml:id="Bradwardine">
                 <persName xml:lang="en">Thomas Bradwardine</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Thomas_Bradwardine</note>
             </person>
             <person xml:id="Durandus">
                 <persName xml:lang="en">Durandus of St. Pourcain</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Durandus_of_Saint-Pourçain</note>
             </person>
             <person xml:id="Rimini">
                 <persName xml:lang="en">Gregory of Rimini</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Gregory_of_Rimini</note>
             </person>
             <person xml:id="HenryOfGhent">
                 <persName xml:lang="en">Henry of Ghent</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Henry_of_Ghent</note>
             </person>
             <person xml:id="WilliamOfAuxerre">
                 <persName xml:lang="en">William of Auxerre</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/William_of_Auxerre</note>
             </person>
             <person xml:id="WilliamOfParis">
                 <persName xml:lang="en">William of Paris</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/William_of_Auvergne_(bishop)</note>
             </person>
             <person xml:id="NicholasOfLyra">
                 <persName xml:lang="en">Nicholas of Lyra</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Nicholas_of_Lyra</note>
+                
             </person>
             <person xml:id="Heytesbury">
                 <persName xml:lang="en">William Hetesbury</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/William_of_Heytesbury</note>
             </person>
             <person xml:id="RichardKilvington">
                 <persName xml:lang="en">Richard of Kilvington</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Richard_Kilvington</note>
             </person>
             <person xml:id="RichardOfStVictor">
                 <persName xml:lang="en">Richard of St. Victor</persName>
@@ -770,9 +793,11 @@
             </person>
             <person xml:id="RichardFitzRalph">
                 <persName xml:lang="en">Richard FitzRalph</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Richard_FitzRalph</note>
             </person>
             <person xml:id="MarsiliusOfPadua">
                 <persName xml:lang="en">Marsilius Of Padua</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Marsilius_of_Padua</note>
             </person>
             <person xml:id="RobertHalifax">
                 <persName xml:lang="en">Robert Halifax</persName>
@@ -783,10 +808,12 @@
             </person>
             <person xml:id="NicholasOresme">
                 <persName xml:lang="en">Nicholas Oresme</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Nicole_Oresme</note>
             </person>
             <person xml:id="VincentOfBeauvais">
-                <persName xml:lang="en">Vincent of Beauvais </persName>
+                <persName xml:lang="en">Vincent of Beauvais</persName>
                 <note>Wikipedia: The Dominican friar Vincent of Beauvais (Vincentius Bellovacensis or Vincentius Burgundus) (c. 1190 – 1264?) wrote the Speculum Maius, the main encyclopedia that was used in the Middle Ages.</note>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Vincent_of_Beauvais</note>
             </person>
             <person xml:id="BernardusSilvestris">
                 <persName xml:lang="en">Bernardus Silvestris</persName>
@@ -803,6 +830,7 @@
             </person>
             <person xml:id="AlexanderOfHales">
                 <persName xml:lang="en">Alexander of Hales</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Alexander_of_Hales</note>
             </person>
             <person xml:id="peter-plaoul">
                 <persName xml:lang="en">Peter Plaoul</persName>
@@ -810,6 +838,7 @@
             </person>
             <person xml:id="JamesViterbo">
                 <persName xml:lang="en">James of Viterbo</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Giacomo_da_Viterbo</note>
             </person>
             <person xml:id="JohannesBrakel">
                 <persName xml:lang="en">Johannes de Brake</persName>
@@ -819,7 +848,7 @@
                 <persName xml:lang="en">Thomas of Strasbourg</persName>
             </person>
             <person xml:id="AlphonsusVargas">
-                <persName xml:lang="en">Alonso Vargas of Toledo</persName>
+                <persName xml:lang="en">Alphonso Vargas of Toledo</persName>
             </person>
             <person xml:id="GerardusDeSiena">
                 <persName xml:lang="en">Gerard of Siena</persName>
@@ -856,7 +885,74 @@
           <person xml:id="OsbertPickingham">
             <persName xml:lang="en">Osbert Pickingham</persName>
           </person>
-          
+        	<person xml:id="PetrusHispanus">
+        		<persName xml:lang="en">Peter Of Spain</persName>
+        		<persName xml:lang="la">Petrus Hispanus</persName>
+        		<note type="dbpedia-url">http://dbpedia.org/resource/Peter_of_Spain</note>
+        	</person>
+        	<person xml:id="DionysiusDeBruges">
+        		<persName xml:lang="en">Dionysius de Bruges</persName>
+        	</person>
+        	<person xml:id="HenricusDeWerl">
+        		<persName xml:lang="en">Henricus de Werl</persName>
+        	</person>
+        	<person xml:id="JacobusDeAltavilla">
+        		<persName xml:lang="en">Jacobus de Altavilla</persName>
+        	</person>
+        	<person xml:id="JanHus">
+        		<persName xml:lang="en">Jan Hus</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Jan_Hus</note>
+                
+        	</person>
+        	<person xml:id="JohnMirecourt">
+        		<persName xml:lang="en">John Mirecourt</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/John_of_Mirecourt</note>
+        	</person>
+        	<person xml:id="LambertusDeMonte">
+        		<persName xml:lang="en">Lambertus de Monte</persName>
+        	</person>
+        	<person xml:id="NicolasDeDinkelsbuhl">
+        		<persName xml:lang="en">Nicolas de Dinkelsbuhl</persName>
+            </person>
+        	<person xml:id="PeterDeAquila">
+        		<persName xml:lang="en">Peter de Aquila</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Peter_of_Aquila</note>
+            </person>
+        	<person xml:id="PetrusDeTarantasia">
+        		<persName xml:lang="en">Petrus de Tarantasia</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Peter_of_Tarentaise</note>
+            </person>
+        	<person xml:id="PetrusGracilis">
+        		<persName xml:lang="en">Petrus Gracilis</persName>
+        	</person>
+        	<person xml:id="PeterJeanOlivi">
+        		<persName xml:lang="en">Peter Jean Olivi</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Peter_John_Olivi</note>
+            </person>
+        	<person xml:id="RicardusDeMediavilla">
+        		<persName xml:lang="en">Ricardus de Mediavilla</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Richard_of_Middleton</note>
+            </person>
+        	<person xml:id="WilliamCrathorn">
+        		<persName xml:lang="en">William Crathorn</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/William_Crathorn</note>
+        	</person>
+        	<person xml:id="WilliamDeRothwell">
+        		<persName xml:lang="en">William de Rothwell</persName>
+        	</person>
+        	<person xml:id="WilliamDeVaurouillon">
+        		<persName xml:lang="en">William de Vaurouillon</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/William_Vorilong</note>
+                
+        	</person>
+        	<person xml:id="AugustinusDeAncona">
+        		<persName xml:lang="en">Augustinus de Ancona</persName>
+        	</person>
+        	<person xml:id="HerveusNatalis">
+        		<persName xml:lang="en">Herveus Natalis</persName>
+                <note type="dbpedia-url">http://dbpedia.org/resource/Hervaeus_Natalis</note>
+        	</person>
+        	
         </listPerson>
         
         </listPerson>
