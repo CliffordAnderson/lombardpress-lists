@@ -654,6 +654,8 @@
             <person xml:id="Aquinas">
                 <persName xml:lang="en">Thomas Aquinas</persName>
                 <note type="dbpedia-url">http://dbpedia.org/resource/Thomas_Aquinas</note>
+            		<!-- <note type="rcs-url">http://rcs.philsem.unibas.ch/feed/200476</note> -->
+            		<note type="rcs-url">/Users/jcwitt/Desktop/rcsfeeds/200476</note>
             </person>
             <person xml:id="Holcot">
                 <persName xml:lang="en">Robert Holcot</persName>
@@ -670,6 +672,8 @@
             <person xml:id="Wodeham">
                 <persName xml:lang="en">Adam Wodeham</persName>
                 <note type="dbpedia-url">http://dbpedia.org/resource/Adam_de_Wodeham</note>
+            		<!-- <note type="rcs-url">http://rcs.philsem.unibas.ch/feed/200009</note> -->
+            		<note type="rcs-url">/Users/jcwitt/Desktop/rcsfeeds/200009</note>
             </person>
             <person xml:id="Ockham">
                 <persName xml:lang="en">William of Ockham</persName>
@@ -886,7 +890,7 @@
             <persName xml:lang="en">Osbert Pickingham</persName>
           </person>
         	<person xml:id="PetrusHispanus">
-        		<persName xml:lang="en">Peter Of Spain</persName>
+        		<persName xml:lang="en">Peter Hispanicus</persName>
         		<persName xml:lang="la">Petrus Hispanus</persName>
         		<note type="dbpedia-url">http://dbpedia.org/resource/Peter_of_Spain</note>
         	</person>
@@ -950,8 +954,69 @@
         	</person>
         	<person xml:id="HerveusNatalis">
         		<persName xml:lang="en">Herveus Natalis</persName>
-                <note type="dbpedia-url">http://dbpedia.org/resource/Hervaeus_Natalis</note>
+            <note type="dbpedia-url">http://dbpedia.org/resource/Hervaeus_Natalis</note>
+        		<!-- <note type="rcs-url">http://rcs.philsem.unibas.ch/feed/200193</note> -->
+        		<note type="rcs-url">/Users/jcwitt/Desktop/rcsfeeds/200193</note>
         	</person>
+        	<person xml:id="JohnMair">
+        		<persName xml:lang="en">John Mair</persName>
+        		<!-- <note type="rcs-url">http://rcs.philsem.unibas.ch/feed/200266</note> -->
+        		<note type="rcs-url">/Users/jcwitt/Desktop/rcsfeeds/200266</note>
+        	</person>
+        	<person xml:id="JohnDinsdale">
+        		<persName xml:lang="en">John Dinsdale</persName>
+        	</person>
+        	<person xml:id="AlbertusDeSaxonia">
+        		<persName xml:lang="en">Albertus De Saxonia</persName>
+        	</person>
+        	<person xml:id="PlacidusAegidiusMelander">
+        		<persName xml:lang="en">Placidus Aegidius Melander</persName>
+        	</person>
+        	<person xml:id="JohnAltenstaig">
+        		<persName xml:lang="en">John Altenstaig</persName>
+        	</person>
+        	<person xml:id="GabrielBiel">
+        		<persName xml:lang="en">Gabriel Biel</persName>
+        	</person>
+          <person xml:id="JohnOfJandun">
+            <persName xml:lang="en">John of Jandun</persName>
+          </person>
+          <person xml:id="PicoDellaMirandola">
+            <persName xml:lang="en">Pico Della Mirandola</persName>
+          </person>
+          <person xml:id="JacquesAlmain">
+            <persName xml:lang="en">Jacques Almain</persName>
+          </person>
+          <person xml:id="AndreasDeNovoCastro">
+            <persName xml:lang="en">Andreas de Novo Castro</persName>
+          </person>
+          <person xml:id="FranciscusTotiDePerusia">
+            <persName xml:lang="en">Franciscus Toti de Perusia</persName>
+          </person>
+          <person xml:id="JohnPeckham">
+            <persName xml:lang="en">John Peckham</persName>
+          </person>
+          <person xml:id="AugustinusDeMonsterbek">
+            <persName xml:lang="en">Augustinus de Monsterbek</persName>
+          </person>
+          <person xml:id="Anonymous">
+            <persName xml:lang="en">Anonymous</persName>
+          </person>
+          <person xml:id="SimonFaversham">
+            <persName xml:lang="en">Simon of Faversham</persName>
+          </person>
+          <person xml:id="RaymondOfPenyafort">
+            <persName xml:lang="en">Raymond Of Penyafort</persName>
+          </person>
+          <person xml:id="GuillelmusHedonensis">
+            <persName xml:lang="en">Guillelmus Hedonensis</persName>
+          </person>
+          
+          
+          
+          
+        	
+        	
         	
         </listPerson>
         
