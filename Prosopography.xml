@@ -573,6 +573,10 @@
                 <persName xml:lang="en">Cyril of Alexandria</persName>
                 <note type="dbpedia-url">http://dbpedia.org/resource/Cyril_of_Alexandria</note>
             </person>
+          <person xml:id="ClementOfAlexandria">
+            <persName xml:lang="en">Clement of Alexandria</persName>
+            <note type="dbpedia-url">http://dbpedia.org/resource/Clement_of_Alexandria</note>
+          </person>
             <person xml:id="Nestorius">
                 <persName xml:lang="en">Nestorius</persName>
                 <note type="dbpedia-url">http://dbpedia.org/resource/Nestorius</note>
@@ -969,6 +973,9 @@
         	<person xml:id="AlbertusDeSaxonia">
         		<persName xml:lang="en">Albertus De Saxonia</persName>
         	</person>
+          <person xml:id="JordonOfSaxony">
+            <persName xml:lang="en">Jordon of Saxony</persName>
+          </person>
         	<person xml:id="PlacidusAegidiusMelander">
         		<persName xml:lang="en">Placidus Aegidius Melander</persName>
         	</person>
@@ -1011,13 +1018,22 @@
           <person xml:id="GuillelmusHedonensis">
             <persName xml:lang="en">Guillelmus Hedonensis</persName>
           </person>
-          
-          
-          
-          
-        	
-        	
-        	
+          <person xml:id="LambertusDaneau">
+            <persName xml:lang="en">Lambertus Daneau</persName>
+          </person>
+          <person xml:id="BartolomeoMastri">
+            <persName xml:lang="en">Bartolomeo Mastri</persName>
+          </person>
+          <person xml:id="AlexanderDeAlexandria">
+            <persName xml:lang="en">Alexander of Alexandria</persName>
+            <!-- early 14 scholastic, socius of Aureoli; see https://books.google.com/books?id=YhrBIzyHWmUC&pg=PA978&dq=Alexander+de+Alexandria&hl=en&sa=X&ved=0ahUKEwi14Lb47Z_XAhWJbiYKHU2-D_MQ6AEIPjAE#v=onepage&q=Alexander%20de%20Alexandria&f=false -->
+          </person>
+          <person xml:id="PetrusDeAilly">
+            <persName xml:lang="en">Petrus de Ailly</persName>
+          </person>
+          <person xml:id="SigerOfBrabant">
+            <persName xml:lang="en">Siger Of Brabant</persName>
+          </person>
         </listPerson>
         
         </listPerson>
