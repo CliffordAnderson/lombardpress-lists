@@ -1122,12 +1122,15 @@
             <note type="dbpedia-url">http://dbpedia.org/resource/Dominicus_Gundissalinus</note>
           </person>
           <person xml:id="ThomasOfIreland">
-            <persName xml:lang="en">ThomasOfIreland</persName>
+            <persName xml:lang="en">Thomas Of Ireland</persName>
             <!-- known as Thomas Hibernicus, not to be confused with the Franciscan friar Thomas de Hibernia (died c. 1270) -->
             <!-- can't find wiki data id -->
             <note type="dbpedia-url">http://dbpedia.org/resource/Thomas_of_Ireland</note>
           </person>
-          
+          <person xml:id="JohannesDeFonte">
+            <persName xml:lang="en">Johannes De Fonte</persName>
+            <note type="order">Franciscan</note>
+          </person>
         </listPerson>
       </listPerson>
     </body>
