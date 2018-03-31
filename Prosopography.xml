@@ -327,6 +327,7 @@
           </person>
           <person xml:id="Apuleius">
             <persName xml:lang="en">Lucius Apuleius Madaurensis</persName>
+            <note type="wikidata-id">Q170512</note>
           </person>
           <person xml:id="Aeneas">
             <persName xml:lang="en">Aeneas</persName>
@@ -826,9 +827,10 @@
           </person>
           <person xml:id="HughOfStVictor">
             <persName xml:lang="en">Hugh of St. Victor</persName>
+            <note type="order">Victorine</note>
           </person>
           <person xml:id="Grosseteste">
-            <persName xml:lang="en">Robert Grossetest</persName>
+            <persName xml:lang="en">Robert Grosseteste</persName>
           </person>
           <person xml:id="Moderni">
             <persName xml:lang="en">Moderni</persName>
@@ -879,6 +881,7 @@
               Vincentius Burgundus) (c. 1190 – 1264?) wrote the Speculum Maius, the main
               encyclopedia that was used in the Middle Ages.</note>
             <note type="dbpedia-url">http://dbpedia.org/resource/Vincent_of_Beauvais</note>
+            <note type="order">Dominican</note>
           </person>
           <person xml:id="BernardusSilvestris">
             <persName xml:lang="en">Bernardus Silvestris</persName>
@@ -1108,6 +1111,23 @@
           <person xml:id="JohannGerhard">
             <persName xml:lang="en">Johann Gerhard</persName>
           </person>
+          <person xml:id="BerengarOfTours">
+            <persName xml:lang="en">Berengar of Tours</persName>
+            <note type="wikidata-id">Q435006</note>
+            <note type="dbpedia-url">http://dbpedia.org/resource/Berengar_of_Tours</note>
+          </person>
+          <person xml:id="DominicusGundissalinus">
+            <persName xml:lang="en">Dominicus Gundissalinus</persName>
+            <note type="wikidata-id">Q1237726</note>
+            <note type="dbpedia-url">http://dbpedia.org/resource/Dominicus_Gundissalinus</note>
+          </person>
+          <person xml:id="ThomasOfIreland">
+            <persName xml:lang="en">ThomasOfIreland</persName>
+            <!-- known as Thomas Hibernicus, not to be confused with the Franciscan friar Thomas de Hibernia (died c. 1270) -->
+            <!-- can't find wiki data id -->
+            <note type="dbpedia-url">http://dbpedia.org/resource/Thomas_of_Ireland</note>
+          </person>
+          
         </listPerson>
       </listPerson>
     </body>
