@@ -1131,6 +1131,12 @@
             <persName xml:lang="en">Johannes De Fonte</persName>
             <note type="order">Franciscan</note>
           </person>
+          <person xml:id="JohannesCapreolus">
+            <persName xml:lang="en">Johannes Capreolus</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q6170357</note>
+            <note type="dbpedia-url">http://dbpedia.org/resource/Jean_Capréolus</note>
+          </person>
         </listPerson>
       </listPerson>
     </body>
