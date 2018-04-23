@@ -1137,6 +1137,12 @@
             <note type="wikidata-id">Q6170357</note>
             <note type="dbpedia-url">http://dbpedia.org/resource/Jean_Capréolus</note>
           </person>
+          <person xml:id="JohnOfWales">
+            <persName xml:lang="en">John of Wales</persName>
+            <note type="order">Franciscan</note>
+            <note type="wikidata-id">Q981494</note>
+            <note type="dbpedia-url">http://dbpedia.org/resource/John_of_Wales</note>
+          </person>
         </listPerson>
       </listPerson>
     </body>
