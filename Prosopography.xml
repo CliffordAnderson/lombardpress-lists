@@ -1143,6 +1143,12 @@
             <note type="wikidata-id">Q981494</note>
             <note type="dbpedia-url">http://dbpedia.org/resource/John_of_Wales</note>
           </person>
+          <person xml:id="SimonMagister">
+            <persName xml:lang="en">SimonMagister</persName>
+            <note type="order">Franciscan</note>
+            <note type="wikidata-id">Q981494</note>
+            <note type="dbpedia-url">http://dbpedia.org/resource/John_of_Wales</note>
+          </person>
         </listPerson>
       </listPerson>
     </body>
