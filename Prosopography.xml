@@ -1146,6 +1146,12 @@
           <person xml:id="SimonMagister">
             <persName xml:lang="en">Simon Magister</persName>
           </person>
+          <person xml:id="AntoniusAndreas">
+            <persName xml:lang="en">Antonius Andreas</persName>
+            <note type="dbpedia-url">http://dbpedia.org/resource/Antonius_Andreas</note>
+            <note type="wikidata-id">Q3620412</note>
+            <note type="order">Franciscan</note>
+          </person>
         </listPerson>
       </listPerson>
     </body>
